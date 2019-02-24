@@ -1,0 +1,11 @@
+dofile("./_woe.lua")
+function onLogin(cid)
+if not isPlayer(cid) then return true end
+Woe.getInfo()
+local Guild_ID = getPlayerGuildId(cid)
+if (Guild_ID == infoLua[2]) and (infoLua[2] ~= 0) then
+doPlayerSetExperienceRate(cid, 1.15) -- here
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Your guild has won the last War of Emperium, for that reason you have 15% extra experience.")
+end
+return true
+end

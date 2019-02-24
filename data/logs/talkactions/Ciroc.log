@@ -1,0 +1,3612 @@
+[7/11/2016 11:9:46] /ghost
+[7/11/2016 11:10:21] /cliport
+[7/11/2016 11:11:33] /i 9146
+[7/11/2016 11:11:35] /i 9146
+[7/11/2016 11:11:36] /i 9146
+[7/11/2016 11:11:39] /i 9146
+[7/11/2016 11:11:41] /i 9146
+[7/11/2016 11:12:13] /t
+[12/6/2017 9:51:53] /ghost
+[12/6/2017 9:51:54] /town 1
+[12/6/2017 9:55:1] /save
+[12/6/2017 9:55:9] /reload config
+[12/6/2017 9:55:20] /reload creaturescripts
+[12/6/2017 10:11:54] /a 1
+[12/6/2017 10:12:42] /i bollard
+[12/6/2017 10:13:9] /r
+[12/6/2017 10:15:51] /goto clayverson
+[12/6/2017 10:15:55] /a 2
+[12/6/2017 10:16:4] /a 2
+[12/6/2017 10:16:4] /a 2
+[12/6/2017 10:16:5] /a 2
+[12/6/2017 10:16:5] /a 2
+[12/6/2017 10:16:5] /a 2
+[12/6/2017 10:16:5] /a 2
+[12/6/2017 10:16:6] /a 2
+[12/6/2017 10:16:6] /a 2
+[12/6/2017 10:16:10] /r
+[12/6/2017 10:18:40] /save
+[12/6/2017 10:18:44] /reload talkactions
+[12/6/2017 10:18:46] /diceevent
+[12/6/2017 10:18:59] /goto clayverson
+[12/6/2017 10:19:0] /a 2
+[12/6/2017 10:19:0] /a 2
+[12/6/2017 10:19:0] /a 2
+[12/6/2017 10:19:1] /a 2
+[12/6/2017 10:19:1] /a 2
+[12/6/2017 10:19:1] /a 2
+[12/6/2017 10:19:2] /a 2
+[12/6/2017 10:19:2] /a 2
+[12/6/2017 10:19:2] /a 2
+[12/6/2017 10:19:2] /a 2
+[12/6/2017 10:19:2] /a 2
+[12/6/2017 10:19:2] /a 2
+[12/6/2017 10:19:3] /a 2
+[12/6/2017 10:19:3] /a 2
+[12/6/2017 10:19:3] /a 2
+[12/6/2017 10:19:3] /a 2
+[12/6/2017 10:19:3] /a 2
+[12/6/2017 10:19:5] /a 1
+[12/6/2017 10:19:14] /r
+[12/6/2017 10:19:16] /reload talkactions
+[12/6/2017 10:19:19] /diceevent
+[12/6/2017 10:19:29] /t
+[12/6/2017 10:19:32] /town 1
+[12/6/2017 10:20:0] /goto clayverson
+[12/6/2017 10:20:1] /a 2
+[12/6/2017 10:20:1] /a 2
+[12/6/2017 10:20:1] /a 2
+[12/6/2017 10:20:1] /a 2
+[12/6/2017 10:20:1] /a 2
+[12/6/2017 10:20:1] /a 2
+[12/6/2017 10:20:2] /a 2
+[12/6/2017 10:20:2] /a 2
+[12/6/2017 10:20:2] /a 2
+[12/6/2017 10:20:2] /a 2
+[12/6/2017 10:20:2] /a 2
+[12/6/2017 10:20:3] /a 2
+[12/6/2017 10:20:3] /a 2
+[12/6/2017 10:20:3] /a 2
+[12/6/2017 10:20:3] /a 2
+[12/6/2017 10:20:4] /a 2
+[12/6/2017 10:20:43] /save
+[12/6/2017 10:20:45] /reload talkactions
+[12/6/2017 10:21:14] /goto clayverson
+[12/6/2017 10:21:16] /a 2
+[12/6/2017 10:21:16] /a 2
+[12/6/2017 10:21:16] /a 2
+[12/6/2017 10:21:16] /a 2
+[12/6/2017 10:21:17] /a 2
+[12/6/2017 10:21:17] /t
+[12/6/2017 10:21:20] /town 1
+[12/6/2017 11:30:18] /save
+[12/6/2017 11:30:28] /reload globalevents
+[14/6/2017 6:37:56] /save
+[14/6/2017 6:37:58] /reload spells
+[14/6/2017 6:38:14] /i backpack
+[14/6/2017 6:45:1] /i 2157
+[14/6/2017 6:45:46] /save
+[14/6/2017 6:45:48] /reload spells
+[14/6/2017 6:46:55] /reload spells
+[14/6/2017 6:57:23] /save
+[14/6/2017 6:57:26] /reload talkactions
+[14/6/2017 6:57:32] /reload creaturescripts
+[14/6/2017 6:57:37] /reload npc
+[14/6/2017 6:57:44] /s Morte Task
+[14/6/2017 6:57:46] /n Morte Task
+[14/6/2017 6:59:5] /i 1484
+[14/6/2017 6:59:6] /i 1484
+[14/6/2017 6:59:7] /i 1484
+[14/6/2017 6:59:7] /i 1484
+[14/6/2017 6:59:8] /i 1484
+[14/6/2017 6:59:9] /r
+[14/6/2017 6:59:10] /r
+[14/6/2017 6:59:10] /r
+[14/6/2017 6:59:11] /r
+[14/6/2017 6:59:12] /r
+[14/6/2017 6:59:14] /r
+[14/6/2017 7:0:9] /save
+[14/6/2017 7:0:10] /reload npc
+[14/6/2017 7:0:13] /c morte task
+[14/6/2017 7:1:55] /save
+[14/6/2017 7:1:59] /reload creaturescripts
+[14/6/2017 7:2:44] /i 10503
+[14/6/2017 7:4:55] /save
+[14/6/2017 7:4:58] /reload talkasctions
+[14/6/2017 7:5:2] /reload talkactions
+[14/6/2017 7:5:4] /reload actions
+[14/6/2017 7:6:27] /reload talkactions
+[14/6/2017 7:11:50] /a 1
+[14/6/2017 7:11:57] /c morte task
+[14/6/2017 7:11:58] /i 1484
+[14/6/2017 7:12:0] /c morte task
+[14/6/2017 7:26:3] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:4] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:4] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:4] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:5] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:5] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:5] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:5] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:6] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:6] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:6] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:7] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:7] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:9] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:10] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:15] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:16] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:27] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:27] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:28] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:28] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:35] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:36] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:42] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:43] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:49] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:50] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:50] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:26:55] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:27:0] /save
+[14/6/2017 7:27:4] /bc CHUVA DE DINHEIRO APÓS A MORTE DO STRIKER!
+[14/6/2017 7:27:38] /bc LA VAI A CHUVA!!!!!!!
+[14/6/2017 7:27:44] /bc LA VAI A CHUVAAA!!!!!!
+[14/6/2017 7:27:56] /reload spells
+[14/6/2017 16:30:5] /ghost
+[14/6/2017 16:30:23] /ghost
+[15/6/2017 13:39:14] /town 1
+[15/6/2017 13:39:24] /r
+[15/6/2017 13:39:35] /demote GOD FRANCIS
+[15/6/2017 13:39:58] /kick GOD FRANCIS
+[15/6/2017 13:40:5] /goto GOD FRANCIS
+[17/6/2017 14:34:16] /ghost
+[17/6/2017 14:35:24] /ghost
+[18/6/2017 15:27:35] /save
+[18/6/2017 15:27:38] /reload creaturescripts
+[18/6/2017 15:29:51] /save
+[18/6/2017 15:29:57] /reload creaturescripts
+[23/6/2017 3:8:5] /t
+[23/6/2017 3:23:49] /t
+[23/6/2017 5:38:20] /i surprise box
+[23/6/2017 5:45:0] /a 2
+[23/6/2017 5:45:16] /a 2
+[23/6/2017 5:46:59] /t
+[23/6/2017 5:48:3] /bc [ATENÇÃO] Servidor vai cair por 1 minuto jaja para update!
+[23/6/2017 6:10:1] /t
+[23/6/2017 6:10:7] /a 2
+[23/6/2017 6:11:26] /t
+[23/6/2017 6:19:33] /bc Servidor vai cair em 2 minutos e ficará offline por 1 minuto para update!
+[23/6/2017 6:22:18] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:18] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:18] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:19] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:19] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:19] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:19] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:20] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:20] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:20] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:20] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:21] /b Servidor vai cair e volta em menos de 1 minuto!
+[23/6/2017 6:22:22] /save
+[23/6/2017 6:22:24] /save
+[23/6/2017 6:22:25] /shutdown
+[23/6/2017 6:23:17] /cliport
+[23/6/2017 6:23:24] /a 2
+[23/6/2017 6:24:59] /save
+[23/6/2017 6:25:1] /reload globalevents
+[23/6/2017 6:25:7] /bc Várias correçãos, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:7] /bc Várias correçãos, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:7] /bc Várias correçãos, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:8] /bc Várias correçãos, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:8] /bc Várias correçãos, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:10] /bc Várias correçãos, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:10] /bc Várias correçãos, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:17] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:18] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:18] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:19] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:19] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:19] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:24] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:25] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:26] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:26] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:29] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:42] /a 2
+[23/6/2017 6:25:44] /a 2
+[23/6/2017 6:25:44] /a 2
+[23/6/2017 6:25:44] /a 2
+[23/6/2017 6:25:45] /a 2
+[23/6/2017 6:25:45] /a 2
+[23/6/2017 6:25:45] /t
+[23/6/2017 6:25:46] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:25:46] /bc Várias correções, aparencia melhorada em varias salas do mapa, novidades na vip 2 e 3, novas caves 450+ e nova quest de magias!
+[23/6/2017 6:26:20] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:20] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:21] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:21] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:21] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:21] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:22] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:22] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:22] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:22] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:23] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:23] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:23] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:24] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:24] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:24] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:25] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:25] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:26] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:26] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:26] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:27] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:27] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:26:27] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:27:38] /b NPC de task de Morte Diaria está no boeiro no templo andar inferior do templo!
+[23/6/2017 6:28:10] /i 9125
+[23/6/2017 6:28:20] /a 2
+[23/6/2017 6:28:20] /a 2
+[23/6/2017 6:28:20] /a 2
+[23/6/2017 6:28:20] /a 2
+[23/6/2017 6:28:20] /a 2
+[23/6/2017 6:28:20] /a 2
+[23/6/2017 6:28:21] /a 2
+[23/6/2017 6:28:21] /a 2
+[23/6/2017 6:28:21] /a 2
+[23/6/2017 6:28:21] /a 2
+[23/6/2017 6:28:21] /a 2
+[23/6/2017 6:28:21] /a 2
+[23/6/2017 6:28:22] /a 2
+[23/6/2017 6:28:27] /a 2
+[23/6/2017 6:28:27] /a 2
+[23/6/2017 6:28:27] /a 2
+[23/6/2017 6:28:27] /a 2
+[23/6/2017 6:28:27] /a 2
+[23/6/2017 6:28:28] /a 2
+[23/6/2017 6:28:28] /a 2
+[23/6/2017 6:28:28] /a 2
+[23/6/2017 6:28:28] /a 2
+[23/6/2017 6:28:28] /a 2
+[23/6/2017 6:28:29] /a 2
+[23/6/2017 6:28:40] /b Teleport da quest de magias é do lado da Promotion na sala de quests!
+[23/6/2017 6:28:40] /b Teleport da quest de magias é do lado da Promotion na sala de quests!
+[23/6/2017 6:28:41] /b Teleport da quest de magias é do lado da Promotion na sala de quests!
+[23/6/2017 6:28:41] /b Teleport da quest de magias é do lado da Promotion na sala de quests!
+[23/6/2017 6:28:41] /b Teleport da quest de magias é do lado da Promotion na sala de quests!
+[23/6/2017 6:28:42] /a 2
+[23/6/2017 6:28:42] /a 2
+[23/6/2017 6:28:42] /a 2
+[23/6/2017 6:28:42] /a 2
+[23/6/2017 6:28:42] /a 2
+[23/6/2017 6:28:43] /a 2
+[23/6/2017 6:28:43] /a 2
+[23/6/2017 6:28:43] /a 2
+[23/6/2017 6:28:43] /a 2
+[23/6/2017 6:28:43] /a 2
+[23/6/2017 6:28:44] /a 2
+[23/6/2017 6:28:47] /t
+[23/6/2017 6:45:4] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:4] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:4] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:5] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:5] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:5] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:6] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:6] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:6] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:6] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:7] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:7] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:10] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:12] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:12] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:13] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:13] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:13] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:14] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:15] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:16] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:16] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:21] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:21] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:21] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:22] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:22] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:22] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:23] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:25] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:26] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:26] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:27] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:27] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:27] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:28] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:28] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:31] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:32] /bc green [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:36] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:45:37] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:46:32] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:46:37] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:46:37] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:46:38] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:46:38] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:46:38] /bc [ATENÇÃO] Para melhor atendermos a todos e dar total suporte criamos uma aréa de ticket em nosso website, basta logar sua conta ir na pagina ticket suporte e abrir seu ticker!
+[23/6/2017 6:47:45] /a 2
+[23/6/2017 6:47:45] /a 2
+[23/6/2017 6:47:45] /a 2
+[23/6/2017 6:47:46] /a 2
+[23/6/2017 6:47:46] /a 2
+[23/6/2017 6:47:46] /a 2
+[23/6/2017 6:47:46] /a 2
+[23/6/2017 6:47:47] /a 2
+[23/6/2017 6:47:47] /a 2
+[23/6/2017 6:47:47] /a 2
+[23/6/2017 6:47:47] /a 2
+[23/6/2017 6:47:48] /a 2
+[23/6/2017 6:47:48] /a 2
+[23/6/2017 6:47:48] /a 2
+[23/6/2017 6:47:48] /a 2
+[23/6/2017 6:47:49] /a 2
+[23/6/2017 6:47:49] /a 2
+[23/6/2017 6:47:49] /a 2
+[23/6/2017 6:47:49] /a 2
+[23/6/2017 6:47:49] /a 2
+[23/6/2017 6:47:50] /a 2
+[23/6/2017 6:47:50] /a 2
+[23/6/2017 6:47:50] /a 2
+[23/6/2017 6:47:51] /a 2
+[23/6/2017 6:47:51] /a 2
+[23/6/2017 6:47:51] /a 2
+[23/6/2017 6:47:51] /a 2
+[23/6/2017 6:47:51] /a 2
+[23/6/2017 6:47:52] /a 2
+[23/6/2017 6:47:52] /a 2
+[23/6/2017 16:49:54] /t
+[23/6/2017 16:50:46] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:50:47] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:50:47] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:50:47] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:50:48] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:50:48] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:50:48] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:50:49] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:50:49] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:50:50] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:50:50] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:51:1] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:51:1] /bc [ATENÇÃO] Novo sistema de ticket no site para melhor atendermos e darmos suporte a todos!
+[23/6/2017 16:51:22] /a 1
+[23/6/2017 16:51:25] /t
+[27/6/2017 17:59:51] /i parcel
+[27/6/2017 18:1:40] /i parcel
+[27/6/2017 18:1:41] /i parcel
+[27/6/2017 18:1:41] /i parcel
+[27/6/2017 18:1:42] /i parcel
+[27/6/2017 18:1:42] /i parcel
+[27/6/2017 18:1:42] /i parcel
+[27/6/2017 18:1:42] /i parcel
+[27/6/2017 18:1:57] /i parcel
+[27/6/2017 18:1:57] /i parcel
+[27/6/2017 18:1:58] /i parcel
+[27/6/2017 18:1:58] /i parcel
+[27/6/2017 18:2:8] /i arrow
+[27/6/2017 18:2:15] /r
+[27/6/2017 18:2:15] /r
+[27/6/2017 18:2:15] /r
+[27/6/2017 18:2:16] /r
+[27/6/2017 18:2:16] /r
+[27/6/2017 18:2:16] /r
+[27/6/2017 18:2:17] /r
+[27/6/2017 18:2:17] /r
+[27/6/2017 18:2:18] /r
+[27/6/2017 18:6:20] /t
+[27/6/2017 18:10:33] /save
+[27/6/2017 18:36:45] /t
+[27/6/2017 18:45:16] /c [adm] harpener
+[27/6/2017 18:45:18] /c [adm] harpenes
+[27/6/2017 19:8:21] /goto Clayverson
+[27/6/2017 19:8:30] /t
+[27/6/2017 19:20:4] /save
+[27/6/2017 19:23:51] /i parcel
+[27/6/2017 19:23:51] /i parcel
+[27/6/2017 19:23:51] /i parcel
+[27/6/2017 19:23:52] /i parcel
+[27/6/2017 19:23:52] /i parcel
+[27/6/2017 19:23:52] /i parcel
+[27/6/2017 19:24:8] /i parcel
+[27/6/2017 19:24:9] /i parcel
+[27/6/2017 19:24:9] /i parcel
+[27/6/2017 19:24:18] /i parcel
+[27/6/2017 19:24:33] /c [ADM] Rubens
+[27/6/2017 20:26:7] /save
+[27/6/2017 21:45:36] /save
+[27/6/2017 22:20:13] /clean
+[27/6/2017 22:21:6] /r
+[27/6/2017 22:21:8] /save
+[27/6/2017 22:21:10] /i backpack
+[27/6/2017 22:21:23] /t
+[27/6/2017 22:21:39] /t
+[27/6/2017 23:28:2] /save
+[28/6/2017 0:22:27] /save
+[28/6/2017 0:26:13] /t
+[28/6/2017 3:3:55] /save
+[28/6/2017 6:33:23] /save
+[28/6/2017 22:29:41] /closeserver
+[28/6/2017 22:31:10] /ghost
+[28/6/2017 22:31:47] /a 2
+[28/6/2017 22:31:47] /a 2
+[28/6/2017 22:31:48] /a 2
+[28/6/2017 22:31:48] /a 2
+[28/6/2017 22:31:48] /a 2
+[28/6/2017 22:31:48] /a 2
+[28/6/2017 22:31:48] /a 2
+[28/6/2017 22:31:48] /a 2
+[28/6/2017 22:31:49] /a 2
+[28/6/2017 22:31:49] /a 2
+[28/6/2017 22:31:49] /a 2
+[28/6/2017 22:31:49] /a 2
+[28/6/2017 22:31:50] /a 2
+[28/6/2017 22:31:50] /a 2
+[28/6/2017 22:31:50] /a 2
+[28/6/2017 22:31:50] /a 2
+[28/6/2017 22:31:50] /a 2
+[28/6/2017 22:31:51] /a 2
+[28/6/2017 22:31:51] /a 2
+[28/6/2017 22:31:51] /a 2
+[28/6/2017 22:31:52] /a 2
+[28/6/2017 22:31:54] /i sword
+[28/6/2017 22:31:54] /i sword
+[28/6/2017 22:31:54] /i sword
+[28/6/2017 22:31:55] /i sword
+[28/6/2017 22:31:55] /i sword
+[28/6/2017 22:31:55] /i sword
+[28/6/2017 22:32:18] /r
+[28/6/2017 22:32:25] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:26] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:27] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:28] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:29] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:30] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:31] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:32] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:33] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:34] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:35] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:36] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:37] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:38] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:39] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:40] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:41] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:42] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:43] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:44] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:45] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:46] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:47] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:48] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:49] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:50] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:51] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:52] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:53] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:54] /i sword
+[28/6/2017 22:32:58] /save
+[28/6/2017 22:33:3] /clean
+[28/6/2017 22:34:4] /i parcel
+[28/6/2017 22:34:6] /i parcel
+[28/6/2017 22:34:9] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:10] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:11] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:12] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:13] /i parcel
+[28/6/2017 22:34:20] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:21] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:22] /i parcel
+[28/6/2017 22:34:23] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:24] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:25] /i parcel
+[28/6/2017 22:34:26] /i parcel
+[28/6/2017 22:34:27] /i parcel
+[28/6/2017 22:34:27] /i parcel
+[28/6/2017 22:34:27] /i parcel
+[28/6/2017 22:34:27] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:28] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:29] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:30] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:31] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:32] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:33] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:34] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:35] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:36] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:37] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:38] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:39] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:40] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:41] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:42] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:43] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:44] /i parcel
+[28/6/2017 22:34:45] /t
+[28/6/2017 22:43:54] /a 2
+[28/6/2017 22:43:55] /save
+[28/6/2017 22:43:56] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:57] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:58] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:43:59] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:0] /i parcel
+[28/6/2017 22:44:12] /a 2
+[28/6/2017 22:44:12] /a 2
+[28/6/2017 22:44:12] /a 2
+[28/6/2017 22:44:13] /a 2
+[28/6/2017 22:44:13] /a 2
+[28/6/2017 22:44:13] /a 2
+[28/6/2017 22:44:14] /a 2
+[28/6/2017 22:44:14] /a 2
+[28/6/2017 22:44:14] /a 2
+[28/6/2017 22:44:15] /a 2
+[28/6/2017 22:44:15] /a 2
+[28/6/2017 22:44:15] /a 2
+[28/6/2017 22:44:16] /a 2
+[28/6/2017 22:44:16] /a 2
+[28/6/2017 22:44:16] /a 2
+[28/6/2017 22:44:16] /a 2
+[28/6/2017 22:44:16] /a 2
+[28/6/2017 22:44:17] /a 2
+[28/6/2017 22:44:17] /a 2
+[28/6/2017 22:44:17] /a 2
+[28/6/2017 22:44:18] /a 2
+[28/6/2017 22:44:18] /a 2
+[28/6/2017 22:44:19] /a 2
+[28/6/2017 22:44:20] /a 2
+[28/6/2017 22:44:21] /a 2
+[28/6/2017 22:44:21] /a 2
+[28/6/2017 22:44:21] /a 2
+[28/6/2017 22:44:22] /a 2
+[28/6/2017 22:44:22] /a 2
+[28/6/2017 22:44:23] /a 2
+[28/6/2017 22:44:23] /a 2
+[28/6/2017 22:44:23] /a 2
+[28/6/2017 22:44:23] /a 2
+[28/6/2017 22:44:23] /a 2
+[28/6/2017 22:44:23] /a 2
+[28/6/2017 22:44:24] /a 2
+[28/6/2017 22:44:24] /a 2
+[28/6/2017 22:44:25] /a 2
+[28/6/2017 22:44:25] /a 2
+[28/6/2017 22:44:25] /a 2
+[28/6/2017 22:44:25] /a 2
+[28/6/2017 22:44:25] /a 2
+[28/6/2017 22:44:26] /a 2
+[28/6/2017 22:44:26] /a 2
+[28/6/2017 22:44:26] /a 2
+[28/6/2017 22:44:26] /a 2
+[28/6/2017 22:44:27] /a 2
+[28/6/2017 22:44:27] /a 2
+[28/6/2017 22:44:27] /a 2
+[28/6/2017 22:44:27] /a 2
+[28/6/2017 22:44:27] /a 2
+[28/6/2017 22:44:28] /a 2
+[28/6/2017 22:44:28] /a 2
+[28/6/2017 22:44:32] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:33] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:34] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:35] /i parcel
+[28/6/2017 22:44:36] /i parcel
+[28/6/2017 22:44:36] /i parcel
+[28/6/2017 22:44:36] /i parcel
+[28/6/2017 22:44:36] /i parcel
+[28/6/2017 22:44:36] /i parcel
+[28/6/2017 22:44:36] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:40] /i parcel
+[28/6/2017 22:44:41] /i parcel
+[28/6/2017 22:44:41] /i parcel
+[28/6/2017 22:44:41] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:42] /i parcel
+[28/6/2017 22:44:53] /a 2
+[28/6/2017 22:44:55] /a 1
+[28/6/2017 22:44:55] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:56] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:57] /i parcel
+[28/6/2017 22:44:58] /i parcel
+[28/6/2017 22:44:58] /i parcel
+[28/6/2017 22:44:58] /i parcel
+[28/6/2017 22:44:58] /i parcel
+[28/6/2017 22:44:58] /i parcel
+[28/6/2017 22:44:58] /i parcel
+[28/6/2017 22:44:58] /i parcel
+[28/6/2017 22:44:58] /i parcel
+[28/6/2017 22:44:58] /i parcel
+[28/6/2017 22:45:46] /t
+[28/6/2017 22:45:49] /a 2
+[28/6/2017 22:45:49] /a 2
+[28/6/2017 22:45:49] /a 2
+[28/6/2017 22:45:50] /a 2
+[28/6/2017 22:45:50] /a 2
+[28/6/2017 22:45:50] /a 2
+[28/6/2017 22:45:50] /a 2
+[28/6/2017 22:45:50] /a 2
+[28/6/2017 22:45:50] /a 2
+[28/6/2017 22:45:50] /a 2
+[28/6/2017 22:45:51] /a 2
+[28/6/2017 22:45:51] /a 2
+[28/6/2017 22:45:51] /a 2
+[28/6/2017 22:45:52] /a 2
+[28/6/2017 22:45:52] /a 2
+[28/6/2017 22:45:52] /a 2
+[28/6/2017 22:45:52] /a 2
+[28/6/2017 22:45:53] /a 2
+[28/6/2017 22:45:53] /a 2
+[28/6/2017 22:45:53] /a 2
+[28/6/2017 22:45:53] /a 2
+[28/6/2017 22:45:54] /a 2
+[28/6/2017 22:45:56] /i parcel
+[28/6/2017 22:45:57] /i parcel
+[28/6/2017 22:45:58] /i parcel
+[28/6/2017 22:45:58] /i parcel
+[28/6/2017 22:45:58] /i parcel
+[28/6/2017 22:45:58] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:45:59] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:0] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:1] /i parcel
+[28/6/2017 22:46:2] /i parcel
+[28/6/2017 22:46:2] /i parcel
+[28/6/2017 22:46:2] /i parcel
+[28/6/2017 22:46:2] /i parcel
+[28/6/2017 22:46:2] /i parcel
+[28/6/2017 22:46:2] /i parcel
+[28/6/2017 22:46:2] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:3] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:46:4] /i parcel
+[28/6/2017 22:53:2] /t
+[28/6/2017 22:53:5] /save
+[28/6/2017 22:53:7] /shutdown
+[28/6/2017 22:57:14] /ghost
+[28/6/2017 22:58:42] /save
+[28/6/2017 23:2:27] /save
+[28/6/2017 23:2:46] /goto tei
+[28/6/2017 23:2:54] /mc
+[28/6/2017 23:5:40] /save
+[28/6/2017 23:6:5] /save
+[28/6/2017 23:9:42] /i backpack
+[28/6/2017 23:11:36] /save
+[28/6/2017 23:15:1] /save
+[28/6/2017 23:15:4] /reload creaturescripts
+[28/6/2017 23:18:6] /save
+[28/6/2017 23:18:10] /reload creaturescripts
+[28/6/2017 23:20:39] /save
+[28/6/2017 23:20:42] /reload creaturescripts
+[28/6/2017 23:22:2] /save
+[28/6/2017 23:22:6] /reload creaturescripts
+[28/6/2017 23:25:15] /save
+[28/6/2017 23:25:18] /reload creaturescripts
+[28/6/2017 23:28:25] /save
+[28/6/2017 23:28:28] /reload creaturescripts
+[28/6/2017 23:32:44] /save
+[28/6/2017 23:32:48] /reload creaturescripts
+[28/6/2017 23:33:42] /save
+[28/6/2017 23:33:44] /reload config
+[28/6/2017 23:35:5] /t
+[28/6/2017 23:35:31] /t
+[28/6/2017 23:42:37] /save
+[28/6/2017 23:51:25] /b ^^
+[28/6/2017 23:56:23] /goto Gandalf Branco
+[28/6/2017 23:56:26] /goto Gandalf Branco
+[28/6/2017 23:56:29] /goto Gandalf Branco
+[28/6/2017 23:56:32] /goto Gandalf Branco
+[28/6/2017 23:56:36] /c Gandalf Branco
+[28/6/2017 23:57:18] /goto Gandalf Branco
+[28/6/2017 23:57:22] /goto Gandalf Branco
+[28/6/2017 23:57:27] /r
+[28/6/2017 23:57:28] /r
+[29/6/2017 0:3:42] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:42] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:43] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:43] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:43] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:43] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:44] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:44] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:44] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:45] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:45] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:45] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:45] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:46] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:46] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:46] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:46] /b Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:3:59] /save
+[29/6/2017 0:5:49] /i 7889
+[29/6/2017 0:13:16] /bc Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:13:17] /bc Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:13:18] /bc Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:13:22] /bc Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:13:32] /save
+[29/6/2017 0:14:48] /bc Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:20:29] /save
+[29/6/2017 0:24:7] /bc Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:49:38] /save
+[29/6/2017 0:51:19] /bc Servidor irá reiniciar rapidamente a 01:00 de brasilia! Não ira cair mais, bugs corrigidos!
+[29/6/2017 0:52:22] /goto Recovery Key
+[29/6/2017 0:52:28] /a 2
+[29/6/2017 0:52:29] /a 2
+[29/6/2017 0:52:29] /a 2
+[29/6/2017 0:52:29] /a 2
+[29/6/2017 0:52:30] /a 2
+[29/6/2017 0:52:30] /a 2
+[29/6/2017 0:52:30] /a 2
+[29/6/2017 0:52:30] /a 2
+[29/6/2017 0:52:30] /a 2
+[29/6/2017 0:52:31] /a 2
+[29/6/2017 0:52:31] /a 2
+[29/6/2017 0:52:31] /a 2
+[29/6/2017 0:52:31] /a 2
+[29/6/2017 0:52:32] /a 2
+[29/6/2017 0:52:32] /a 2
+[29/6/2017 0:52:32] /a 2
+[29/6/2017 0:52:32] /a 2
+[29/6/2017 0:52:32] /a 2
+[29/6/2017 0:52:32] /a 2
+[29/6/2017 0:52:32] /a 2
+[29/6/2017 0:52:33] /a 2
+[29/6/2017 0:52:33] /a 2
+[29/6/2017 0:52:33] /a 2
+[29/6/2017 0:52:34] /a 2
+[29/6/2017 0:52:34] /a 2
+[29/6/2017 0:52:34] /a 2
+[29/6/2017 0:52:34] /a 2
+[29/6/2017 0:52:34] /a 2
+[29/6/2017 0:52:34] /a 2
+[29/6/2017 0:52:34] /a 2
+[29/6/2017 0:52:35] /a 2
+[29/6/2017 0:52:35] /a 2
+[29/6/2017 0:52:36] /a 2
+[29/6/2017 0:52:36] /a 2
+[29/6/2017 0:52:36] /a 2
+[29/6/2017 0:52:36] /a 2
+[29/6/2017 0:52:36] /a 2
+[29/6/2017 0:52:37] /a 2
+[29/6/2017 0:52:37] /a 2
+[29/6/2017 0:52:37] /a 2
+[29/6/2017 0:52:37] /a 2
+[29/6/2017 0:52:40] /a 2
+[29/6/2017 0:52:40] /a 2
+[29/6/2017 0:52:40] /a 2
+[29/6/2017 0:52:41] /a 2
+[29/6/2017 0:52:41] /a 2
+[29/6/2017 0:52:41] /a 2
+[29/6/2017 0:52:42] /a 2
+[29/6/2017 0:52:42] /a 2
+[29/6/2017 0:52:42] /a 2
+[29/6/2017 0:52:42] /a 2
+[29/6/2017 0:52:43] /a 2
+[29/6/2017 0:52:43] /a 2
+[29/6/2017 0:52:43] /a 2
+[29/6/2017 0:52:44] /a 2
+[29/6/2017 0:52:44] /a 2
+[29/6/2017 0:52:44] /a 2
+[29/6/2017 0:52:45] /a 2
+[29/6/2017 0:52:45] /a 2
+[29/6/2017 0:52:45] /a 2
+[29/6/2017 0:52:45] /a 2
+[29/6/2017 0:52:46] /a 2
+[29/6/2017 0:52:46] /a 2
+[29/6/2017 0:52:46] /a 2
+[29/6/2017 0:52:46] /a 2
+[29/6/2017 0:52:47] /a 2
+[29/6/2017 0:52:47] /a 2
+[29/6/2017 0:52:47] /a 2
+[29/6/2017 0:52:47] /a 2
+[29/6/2017 0:52:47] /a 2
+[29/6/2017 0:52:48] /a 2
+[29/6/2017 0:52:48] /a 2
+[29/6/2017 0:52:48] /a 2
+[29/6/2017 0:52:50] /goto Recovery Key
+[29/6/2017 0:55:29] /goto recovery key
+[29/6/2017 0:55:34] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:35] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:35] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:35] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:35] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:36] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:36] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:37] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:37] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:37] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:37] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:37] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:37] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:38] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:38] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:38] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:38] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:39] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:39] /bc Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:44] /bc green Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:45] /bc green Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:45] /bc green Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:46] /bc green Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:46] /bc green Servidor vai cair e volta em menos de 1 minutos!
+[29/6/2017 0:55:49] /save
+[29/6/2017 0:55:52] /shutdown
+[29/6/2017 0:57:42] /a 2
+[29/6/2017 0:57:42] /a 2
+[29/6/2017 0:57:42] /a 2
+[29/6/2017 0:57:42] /a 2
+[29/6/2017 0:57:44] /a 2
+[29/6/2017 0:57:44] /a 2
+[29/6/2017 0:58:1] /t
+[29/6/2017 0:58:22] /goto Pedro Knight
+[29/6/2017 0:58:24] /i cave exclusiva
+[29/6/2017 0:58:45] /goto Dawud Al Faraj
+[29/6/2017 0:58:50] /i cave exclusiva
+[29/6/2017 0:59:39] /save
+[29/6/2017 0:59:43] /reload creaturescripts
+[29/6/2017 1:0:20] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:21] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:22] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:22] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:22] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:22] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:22] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:23] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:23] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:23] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:23] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:24] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:24] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:24] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:24] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:25] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:25] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:25] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:26] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:26] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:26] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:27] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:27] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:27] /bc Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:31] /bc green Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:32] /bc green Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:32] /bc green Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:32] /bc green Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:33] /bc green Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:33] /bc green Se tiver algum script não pegando tipo autoloot basta relogar!
+[29/6/2017 1:0:45] /bc OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:46] /bc OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:46] /bc OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:46] /bc OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:47] /bc OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:47] /bc OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:47] /bc OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:47] /bc OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:48] /bc OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:48] /bc OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:52] /bc green OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:52] /bc green OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:52] /bc green OT NÃO IRÁ MAIS CAIR BUGS RESOLVIDOS!
+[29/6/2017 1:0:53] /t
+[29/6/2017 1:1:37] /save
+[29/6/2017 1:1:43] /reload creaturescripts
+[29/6/2017 1:2:32] /goto Chapiuski
+[29/6/2017 1:2:36] /i cave exclusiva
+[29/6/2017 1:2:37] /a 2
+[29/6/2017 1:2:37] /a 2
+[29/6/2017 1:2:38] /a 2
+[29/6/2017 1:2:38] /a 2
+[29/6/2017 1:2:38] /a 2
+[29/6/2017 1:2:38] /a 2
+[29/6/2017 1:2:38] /a 2
+[29/6/2017 1:2:38] /a 2
+[29/6/2017 1:2:38] /a 2
+[29/6/2017 1:2:39] /a 2
+[29/6/2017 1:2:39] /a 2
+[29/6/2017 1:2:39] /a 2
+[29/6/2017 1:2:39] /a 2
+[29/6/2017 1:2:39] /a 2
+[29/6/2017 1:2:40] /a 2
+[29/6/2017 1:2:40] /a 2
+[29/6/2017 1:2:43] /c Chapiuski
+[29/6/2017 1:2:45] /t
+[29/6/2017 1:2:50] /a 2
+[29/6/2017 1:2:52] /a 2
+[29/6/2017 1:2:52] /a 2
+[29/6/2017 1:2:54] /r
+[29/6/2017 1:2:55] /r
+[29/6/2017 1:2:55] /t
+[29/6/2017 1:3:13] /goto Pedro Knight
+[29/6/2017 1:3:20] /t
+[29/6/2017 1:6:49] /goto tonhoc
+[29/6/2017 1:6:52] /i cave exclusiva
+[29/6/2017 1:7:38] /goto lc putaria
+[29/6/2017 1:7:42] /a 2
+[29/6/2017 1:7:42] /a 2
+[29/6/2017 1:7:43] /a 2
+[29/6/2017 1:7:43] /a 2
+[29/6/2017 1:7:44] /a 2
+[29/6/2017 1:7:44] /a 2
+[29/6/2017 1:7:45] /a 2
+[29/6/2017 1:9:12] /save
+[29/6/2017 1:9:14] /reload monster
+[29/6/2017 1:9:14] /a 2
+[29/6/2017 1:9:15] /a 2
+[29/6/2017 1:9:15] /a 2
+[29/6/2017 1:9:15] /a 2
+[29/6/2017 1:9:16] /a 2
+[29/6/2017 1:9:16] /a 2
+[29/6/2017 1:9:16] /a 2
+[29/6/2017 1:9:16] /a 2
+[29/6/2017 1:9:16] /a 2
+[29/6/2017 1:9:17] /a 2
+[29/6/2017 1:9:18] /a 2
+[29/6/2017 1:9:18] /a 2
+[29/6/2017 1:9:18] /a 2
+[29/6/2017 1:9:19] /a 2
+[29/6/2017 1:9:20] /a 2
+[29/6/2017 1:9:20] /a 2
+[29/6/2017 1:9:20] /a 2
+[29/6/2017 1:9:21] /a 2
+[29/6/2017 1:9:21] /a 2
+[29/6/2017 1:9:21] /a 2
+[29/6/2017 1:9:22] /a 2
+[29/6/2017 1:9:22] /a 2
+[29/6/2017 1:9:22] /a 2
+[29/6/2017 1:9:22] /a 2
+[29/6/2017 1:9:22] /a 2
+[29/6/2017 1:9:22] /a 2
+[29/6/2017 1:9:23] /a 2
+[29/6/2017 1:9:23] /a 2
+[29/6/2017 1:9:23] /a 2
+[29/6/2017 1:9:23] /a 2
+[29/6/2017 1:9:24] /a 2
+[29/6/2017 1:9:24] /a 2
+[29/6/2017 1:9:24] /a 2
+[29/6/2017 1:9:24] /a 2
+[29/6/2017 1:9:25] /a 2
+[29/6/2017 1:9:25] /a 2
+[29/6/2017 1:9:25] /a 2
+[29/6/2017 1:9:25] /a 2
+[29/6/2017 1:9:25] /a 2
+[29/6/2017 1:9:26] /a 2
+[29/6/2017 1:9:26] /a 2
+[29/6/2017 1:9:26] /a 2
+[29/6/2017 1:9:26] /a 2
+[29/6/2017 1:9:27] /a 2
+[29/6/2017 1:9:27] /a 2
+[29/6/2017 1:9:27] /a 2
+[29/6/2017 1:9:27] /a 2
+[29/6/2017 1:9:28] /a 2
+[29/6/2017 1:9:28] /a 2
+[29/6/2017 1:9:28] /a 2
+[29/6/2017 1:9:28] /a 2
+[29/6/2017 1:9:28] /a 2
+[29/6/2017 1:9:29] /a 2
+[29/6/2017 1:9:29] /a 2
+[29/6/2017 1:9:29] /a 2
+[29/6/2017 1:9:30] /a 2
+[29/6/2017 1:9:30] /a 2
+[29/6/2017 1:9:30] /a 2
+[29/6/2017 1:9:30] /a 2
+[29/6/2017 1:9:30] /a 2
+[29/6/2017 1:9:31] /a 2
+[29/6/2017 1:9:31] /a 2
+[29/6/2017 1:9:31] /a 2
+[29/6/2017 1:9:31] /a 2
+[29/6/2017 1:9:32] /a 2
+[29/6/2017 1:9:32] /a 2
+[29/6/2017 1:9:32] /a 2
+[29/6/2017 1:9:32] /a 2
+[29/6/2017 1:9:32] /a 2
+[29/6/2017 1:9:33] /a 2
+[29/6/2017 1:9:33] /a 2
+[29/6/2017 1:9:33] /a 2
+[29/6/2017 1:9:33] /a 2
+[29/6/2017 1:9:34] /a 2
+[29/6/2017 1:9:34] /a 2
+[29/6/2017 1:9:34] /a 2
+[29/6/2017 1:9:34] /a 2
+[29/6/2017 1:9:43] /a 2
+[29/6/2017 1:9:43] /a 2
+[29/6/2017 1:9:44] /a 2
+[29/6/2017 1:9:44] /a 2
+[29/6/2017 1:9:44] /a 2
+[29/6/2017 1:9:44] /a 2
+[29/6/2017 1:9:44] /a 2
+[29/6/2017 1:9:44] /a 2
+[29/6/2017 1:9:44] /a 2
+[29/6/2017 1:9:45] /a 2
+[29/6/2017 1:9:45] /a 2
+[29/6/2017 1:9:45] /a 2
+[29/6/2017 1:9:45] /a 2
+[29/6/2017 1:9:45] /a 2
+[29/6/2017 1:9:46] /a 2
+[29/6/2017 1:9:46] /a 2
+[29/6/2017 1:9:46] /a 2
+[29/6/2017 1:9:47] /a 2
+[29/6/2017 1:9:47] /a 2
+[29/6/2017 1:9:47] /a 2
+[29/6/2017 1:9:48] /a 2
+[29/6/2017 1:9:48] /a 2
+[29/6/2017 1:9:48] /a 2
+[29/6/2017 1:9:48] /a 2
+[29/6/2017 1:9:48] /a 2
+[29/6/2017 1:9:49] /a 2
+[29/6/2017 1:9:49] /a 2
+[29/6/2017 1:9:49] /a 2
+[29/6/2017 1:9:49] /a 2
+[29/6/2017 1:9:50] /a 2
+[29/6/2017 1:9:50] /a 2
+[29/6/2017 1:9:50] /a 2
+[29/6/2017 1:9:50] /a 2
+[29/6/2017 1:9:50] /a 2
+[29/6/2017 1:9:51] /a 2
+[29/6/2017 1:9:51] /a 2
+[29/6/2017 1:9:51] /a 2
+[29/6/2017 1:9:51] /a 2
+[29/6/2017 1:9:51] /a 2
+[29/6/2017 1:9:51] /a 2
+[29/6/2017 1:9:52] /a 2
+[29/6/2017 1:9:52] /a 2
+[29/6/2017 1:9:52] /a 2
+[29/6/2017 1:9:52] /a 2
+[29/6/2017 1:9:52] /a 2
+[29/6/2017 1:9:53] /a 2
+[29/6/2017 1:9:53] /a 2
+[29/6/2017 1:9:53] /a 2
+[29/6/2017 1:9:53] /a 2
+[29/6/2017 1:9:54] /a 2
+[29/6/2017 1:9:54] /a 2
+[29/6/2017 1:9:54] /a 2
+[29/6/2017 1:9:54] /a 2
+[29/6/2017 1:9:55] /t
+[29/6/2017 1:10:42] /save
+[29/6/2017 1:10:45] /reload creaturescripts
+[29/6/2017 1:11:32] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:33] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:34] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:34] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:34] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:34] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:35] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:35] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:35] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:35] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:36] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:36] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:36] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:36] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:37] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:37] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:37] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:38] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:38] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:38] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:38] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:39] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:39] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:39] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:39] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:40] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:40] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:40] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:40] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:41] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:41] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:41] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:41] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:42] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:42] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:42] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:42] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:43] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:43] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:43] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:44] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:44] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:44] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:44] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:45] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:45] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:49] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:50] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:50] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:50] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:51] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:51] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:51] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:52] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:52] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:52] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:53] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:53] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:53] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:54] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:54] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:54] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:55] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:55] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:55] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:55] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:56] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:56] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:56] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:57] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:57] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:57] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:58] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:58] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:58] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:58] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:11:59] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:12:0] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:12:0] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:12:1] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:12:1] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:12:10] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:12:10] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless, perdão! só reloguem!
+[29/6/2017 1:12:24] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:24] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:25] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:28] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:29] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:29] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:29] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:30] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:30] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:30] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:30] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:31] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:31] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:50] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:58] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:58] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:59] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:12:59] /bc green Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:13:5] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:13:5] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:13:5] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:13:9] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:13:10] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:13:10] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:13:10] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:13:10] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:13:11] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:13:11] /bc Galera por favor todos reloguem seus chares pois tinha um script bugado de pode falhar varios scripts inclusive bless ou até mesmo o do evento como aconteceu, perdão! só reloguem!
+[29/6/2017 1:14:3] /t
+[29/6/2017 3:36:30] /save
+[29/6/2017 18:34:0] /i 10633
+[29/6/2017 18:34:7] /r
+[29/6/2017 18:34:8] /r
+[29/6/2017 22:1:58] /goto [NSOES] Clayverson
+[29/6/2017 22:2:7] /t
+[29/6/2017 22:31:3] /town 2
+[29/6/2017 22:31:21] /t
+[29/6/2017 22:31:30] /goto Naicido Escravo
+[29/6/2017 22:31:35] /t
+[30/6/2017 7:28:29] /r
+[30/6/2017 21:10:18] /t
+[30/6/2017 21:11:41] /t
+[30/6/2017 23:21:54] /save
+[30/6/2017 23:21:56] /reload npc
+[30/6/2017 23:21:59] /s [Estagiario] Anunciante
+[30/6/2017 23:22:1] /n [Estagiario] Anunciante
+[30/6/2017 23:25:56] /s [Estagiario] Anunciante
+[30/6/2017 23:26:0] /n [Estagiario] Anunciante
+[30/6/2017 23:27:37] /save
+[30/6/2017 23:27:39] /reload npc
+[30/6/2017 23:27:44] /n [Estagiario] Anunciante
+[30/6/2017 23:27:51] /r
+[30/6/2017 23:28:9] /reload npc
+[30/6/2017 23:28:12] /n [Estagiario] Anunciante
+[30/6/2017 23:28:52] /reload npc
+[30/6/2017 23:29:59] /reload npc
+[30/6/2017 23:33:13] /save
+[30/6/2017 23:33:14] /reload npc
+[30/6/2017 23:34:9] /save
+[30/6/2017 23:34:12] /reload npc
+[30/6/2017 23:45:44] /save
+[30/6/2017 23:45:46] /reload npc
+[30/6/2017 23:50:22] /save
+[30/6/2017 23:50:24] /reload npc
+[30/6/2017 23:52:22] /r
+[30/6/2017 23:53:51] /save
+[30/6/2017 23:53:53] /reload npc
+[1/7/2017 0:3:37] /a 2
+[1/7/2017 0:3:37] /a 2
+[1/7/2017 0:3:37] /a 2
+[1/7/2017 0:25:27] /goto [NSOES] Clayverson
+[1/7/2017 0:25:33] /t
+[1/7/2017 1:11:16] /bc green Quer ter seu proprio servidor com a mesma qualidade do baiakinho? Skype: otservbrasil
+[1/7/2017 1:11:16] /bc green Quer ter seu proprio servidor com a mesma qualidade do baiakinho? Skype: otservbrasil
+[1/7/2017 1:11:16] /bc green Quer ter seu proprio servidor com a mesma qualidade do baiakinho? Skype: otservbrasil
+[1/7/2017 1:11:17] /bc green Quer ter seu proprio servidor com a mesma qualidade do baiakinho? Skype: otservbrasil
+[1/7/2017 1:11:17] /bc green Quer ter seu proprio servidor com a mesma qualidade do baiakinho? Skype: otservbrasil
+[1/7/2017 1:11:17] /bc green Quer ter seu proprio servidor com a mesma qualidade do baiakinho? Skype: otservbrasil
+[1/7/2017 1:14:6] /bc green Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:6] /bc green Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:7] /bc green Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:7] /bc green Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:7] /bc green Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:7] /bc green Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:8] /bc green Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:12] /bc Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:13] /bc Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:13] /bc Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:13] /bc Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:13] /bc Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 1:14:14] /bc Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 2:26:5] /bc Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 2:26:6] /bc Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 2:26:7] /bc Quer ter seu proprio servidor com a mesma qualidade dos maiores servidores e BR? Skype: otservbrasil / Site: www.upperhost.net
+[1/7/2017 13:12:35] /save
+[1/7/2017 13:12:37] /reload globalevents
+[1/7/2017 13:23:13] /t
+[1/7/2017 13:32:56] /goto Behavior
+[1/7/2017 13:34:2] /t
+[1/7/2017 13:36:56] /goto Marechal Vooltz
+[1/7/2017 13:36:59] /t
+[1/7/2017 13:38:25] /goto Behavior
+[1/7/2017 13:38:31] /kick Behavior
+[1/7/2017 13:38:35] /goto Frontline
+[1/7/2017 13:38:38] /kick Frontline
+[1/7/2017 13:38:40] /a 2
+[1/7/2017 13:38:40] /a 2
+[1/7/2017 13:38:41] /a 2
+[1/7/2017 13:38:41] /a 2
+[1/7/2017 13:38:41] /a 2
+[1/7/2017 13:38:41] /a 2
+[1/7/2017 13:38:42] /a 2
+[1/7/2017 13:38:42] /a 2
+[1/7/2017 13:38:42] /a 2
+[1/7/2017 13:38:42] /a 2
+[1/7/2017 13:38:42] /a 2
+[1/7/2017 13:38:43] /a 2
+[1/7/2017 13:38:43] /a 2
+[1/7/2017 13:38:43] /a 2
+[1/7/2017 13:38:43] /a 2
+[1/7/2017 13:38:43] /a 2
+[1/7/2017 13:38:44] /a 2
+[1/7/2017 13:38:44] /a 2
+[1/7/2017 13:38:45] /a 2
+[1/7/2017 13:38:45] /a 2
+[1/7/2017 13:38:45] /a 2
+[1/7/2017 13:38:45] /a 2
+[1/7/2017 13:38:45] /a 2
+[1/7/2017 13:38:46] /a 2
+[1/7/2017 13:38:46] /a 2
+[1/7/2017 13:38:46] /a 2
+[1/7/2017 13:38:46] /a 2
+[1/7/2017 13:38:47] /a 2
+[1/7/2017 13:38:49] /r
+[1/7/2017 13:38:49] /a 2
+[1/7/2017 13:38:50] /a 2
+[1/7/2017 13:38:50] /a 2
+[1/7/2017 13:38:50] /a 2
+[1/7/2017 13:38:50] /a 2
+[1/7/2017 13:38:51] /a 2
+[1/7/2017 13:38:51] /a 2
+[1/7/2017 13:38:51] /a 2
+[1/7/2017 13:38:51] /a 2
+[1/7/2017 13:38:52] /a 2
+[1/7/2017 13:38:52] /a 2
+[1/7/2017 13:38:52] /a 2
+[1/7/2017 13:38:53] /a 2
+[1/7/2017 13:38:53] /a 2
+[1/7/2017 13:38:53] /a 2
+[1/7/2017 13:38:53] /a 2
+[1/7/2017 13:38:53] /a 2
+[1/7/2017 13:38:54] /a 2
+[1/7/2017 13:38:54] /a 2
+[1/7/2017 13:38:54] /a 2
+[1/7/2017 13:38:54] /a 2
+[1/7/2017 13:38:54] /a 2
+[1/7/2017 13:38:55] /a 2
+[1/7/2017 13:38:55] /a 2
+[1/7/2017 13:38:55] /a 2
+[1/7/2017 13:38:55] /a 2
+[1/7/2017 13:38:56] /a 2
+[1/7/2017 13:38:56] /a 2
+[1/7/2017 13:38:56] /a 2
+[1/7/2017 13:38:56] /a 2
+[1/7/2017 13:38:57] /a 2
+[1/7/2017 13:38:57] /a 2
+[1/7/2017 13:38:57] /a 2
+[1/7/2017 13:38:57] /a 2
+[1/7/2017 13:38:57] /a 2
+[1/7/2017 13:38:57] /a 2
+[1/7/2017 13:38:58] /a 2
+[1/7/2017 13:38:58] /a 2
+[1/7/2017 13:38:58] /a 2
+[1/7/2017 13:38:58] /a 2
+[1/7/2017 13:38:58] /a 2
+[1/7/2017 13:38:59] /a 2
+[1/7/2017 13:38:59] /a 2
+[1/7/2017 13:38:59] /a 2
+[1/7/2017 13:38:59] /a 2
+[1/7/2017 13:38:59] /a 2
+[1/7/2017 13:39:0] /a 2
+[1/7/2017 13:39:0] /a 2
+[1/7/2017 13:39:0] /a 2
+[1/7/2017 13:39:0] /a 2
+[1/7/2017 13:39:1] /a 2
+[1/7/2017 13:39:1] /a 2
+[1/7/2017 13:39:1] /a 2
+[1/7/2017 13:39:1] /a 2
+[1/7/2017 13:39:1] /a 2
+[1/7/2017 13:39:2] /a 2
+[1/7/2017 13:39:2] /a 2
+[1/7/2017 13:39:2] /a 2
+[1/7/2017 13:39:2] /a 2
+[1/7/2017 13:39:3] /a 2
+[1/7/2017 13:39:3] /a 2
+[1/7/2017 13:39:3] /a 2
+[1/7/2017 13:39:3] /a 2
+[1/7/2017 13:39:4] /a 2
+[1/7/2017 13:39:4] /a 2
+[1/7/2017 13:39:4] /a 2
+[1/7/2017 13:39:4] /a 2
+[1/7/2017 13:39:5] /a 2
+[1/7/2017 13:39:5] /a 2
+[1/7/2017 13:39:36] /a 2
+[1/7/2017 13:39:36] /a 2
+[1/7/2017 13:39:36] /a 2
+[1/7/2017 13:39:36] /a 2
+[1/7/2017 13:39:36] /a 2
+[1/7/2017 13:39:36] /a 2
+[1/7/2017 13:39:37] /a 2
+[1/7/2017 13:39:37] /a 2
+[1/7/2017 13:39:37] /a 2
+[1/7/2017 13:39:37] /a 2
+[1/7/2017 13:39:37] /a 2
+[1/7/2017 13:39:38] /a 2
+[1/7/2017 13:39:38] /a 2
+[1/7/2017 13:39:38] /a 2
+[1/7/2017 13:39:39] /a 2
+[1/7/2017 13:39:39] /a 2
+[1/7/2017 13:39:39] /a 2
+[1/7/2017 13:39:39] /a 2
+[1/7/2017 13:39:39] /a 2
+[1/7/2017 13:39:40] /a 2
+[1/7/2017 13:39:40] /a 2
+[1/7/2017 13:39:40] /a 2
+[1/7/2017 13:39:40] /a 2
+[1/7/2017 13:39:40] /a 2
+[1/7/2017 13:39:41] /a 2
+[1/7/2017 13:39:41] /a 2
+[1/7/2017 13:39:41] /a 2
+[1/7/2017 13:39:41] /a 2
+[1/7/2017 13:39:42] /a 2
+[1/7/2017 13:39:42] /a 2
+[1/7/2017 13:39:42] /a 2
+[1/7/2017 13:39:42] /a 2
+[1/7/2017 13:39:42] /a 2
+[1/7/2017 13:39:43] /a 2
+[1/7/2017 13:39:43] /a 2
+[1/7/2017 13:39:43] /a 2
+[1/7/2017 13:39:43] /a 2
+[1/7/2017 13:39:44] /a 2
+[1/7/2017 13:39:44] /a 2
+[1/7/2017 13:39:44] /a 2
+[1/7/2017 13:39:45] /a 2
+[1/7/2017 13:39:45] /a 2
+[1/7/2017 13:39:45] /a 2
+[1/7/2017 13:39:45] /a 2
+[1/7/2017 13:39:45] /a 2
+[1/7/2017 13:39:45] /a 2
+[1/7/2017 13:39:46] /a 2
+[1/7/2017 13:39:46] /a 2
+[1/7/2017 13:39:46] /a 2
+[1/7/2017 13:39:46] /a 2
+[1/7/2017 13:39:46] /a 2
+[1/7/2017 13:39:47] /a 2
+[1/7/2017 13:39:47] /a 2
+[1/7/2017 13:39:47] /a 2
+[1/7/2017 13:39:47] /a 2
+[1/7/2017 13:39:48] /a 2
+[1/7/2017 13:39:48] /a 2
+[1/7/2017 13:39:48] /a 2
+[1/7/2017 13:39:48] /a 2
+[1/7/2017 13:39:49] /a 2
+[1/7/2017 13:39:49] /a 2
+[1/7/2017 13:39:49] /a 2
+[1/7/2017 13:39:49] /a 2
+[1/7/2017 13:39:50] /a 2
+[1/7/2017 13:39:50] /a 2
+[1/7/2017 13:39:50] /a 2
+[1/7/2017 13:39:50] /a 2
+[1/7/2017 13:39:50] /a 2
+[1/7/2017 13:39:51] /a 2
+[1/7/2017 13:39:51] /a 2
+[1/7/2017 13:39:51] /a 2
+[1/7/2017 13:39:51] /a 2
+[1/7/2017 13:39:51] /a 2
+[1/7/2017 13:39:52] /a 2
+[1/7/2017 13:39:52] /a 2
+[1/7/2017 13:39:52] /a 2
+[1/7/2017 13:39:53] /a 2
+[1/7/2017 13:39:53] /a 2
+[1/7/2017 13:39:53] /a 2
+[1/7/2017 13:39:54] /a 2
+[1/7/2017 13:39:54] /a 2
+[1/7/2017 13:39:54] /a 2
+[1/7/2017 13:39:54] /a 2
+[1/7/2017 13:39:55] /a 2
+[1/7/2017 13:39:55] /a 2
+[1/7/2017 13:39:56] /a 2
+[1/7/2017 13:39:56] /a 2
+[1/7/2017 13:39:56] /a 2
+[1/7/2017 13:39:58] /r
+[1/7/2017 13:39:59] /a 2
+[1/7/2017 13:39:59] /a 2
+[1/7/2017 13:40:0] /a 2
+[1/7/2017 13:40:0] /a 2
+[1/7/2017 13:40:4] /kick yes
+[1/7/2017 13:40:8] /kick lynx
+[1/7/2017 13:40:16] /kick Lynx
+[1/7/2017 13:40:18] /a 2
+[1/7/2017 13:40:18] /a 2
+[1/7/2017 13:40:18] /a 2
+[1/7/2017 13:40:18] /a 2
+[1/7/2017 13:40:19] /a 2
+[1/7/2017 13:40:19] /a 2
+[1/7/2017 13:40:19] /a 2
+[1/7/2017 13:40:19] /a 2
+[1/7/2017 13:40:20] /a 2
+[1/7/2017 13:40:20] /a 2
+[1/7/2017 13:40:20] /a 2
+[1/7/2017 13:40:20] /a 2
+[1/7/2017 13:40:20] /a 2
+[1/7/2017 13:40:20] /a 2
+[1/7/2017 13:40:21] /a 2
+[1/7/2017 13:40:21] /a 2
+[1/7/2017 13:40:22] /a 2
+[1/7/2017 13:40:22] /a 2
+[1/7/2017 13:40:22] /a 2
+[1/7/2017 13:40:22] /a 2
+[1/7/2017 13:40:22] /a 2
+[1/7/2017 13:40:22] /a 2
+[1/7/2017 13:40:22] /a 2
+[1/7/2017 13:40:23] /a 2
+[1/7/2017 13:40:23] /a 2
+[1/7/2017 13:40:23] /a 2
+[1/7/2017 13:40:24] /a 2
+[1/7/2017 13:40:24] /a 2
+[1/7/2017 13:40:24] /a 2
+[1/7/2017 13:40:24] /a 2
+[1/7/2017 13:40:24] /a 2
+[1/7/2017 13:40:25] /a 2
+[1/7/2017 13:40:25] /a 2
+[1/7/2017 13:40:25] /a 2
+[1/7/2017 13:40:26] /a 2
+[1/7/2017 13:40:26] /a 2
+[1/7/2017 13:40:26] /a 2
+[1/7/2017 13:40:26] /a 2
+[1/7/2017 13:40:26] /a 2
+[1/7/2017 13:40:26] /a 2
+[1/7/2017 13:40:27] /a 2
+[1/7/2017 13:40:27] /a 2
+[1/7/2017 13:40:27] /a 2
+[1/7/2017 13:40:27] /a 2
+[1/7/2017 13:40:28] /a 2
+[1/7/2017 13:40:28] /a 2
+[1/7/2017 13:40:28] /a 2
+[1/7/2017 13:40:28] /a 2
+[1/7/2017 13:40:28] /a 2
+[1/7/2017 13:40:29] /a 2
+[1/7/2017 13:40:29] /a 2
+[1/7/2017 13:40:29] /a 2
+[1/7/2017 13:40:29] /a 2
+[1/7/2017 13:40:29] /a 2
+[1/7/2017 13:40:30] /a 2
+[1/7/2017 13:40:30] /a 2
+[1/7/2017 13:40:30] /a 2
+[1/7/2017 13:40:30] /a 2
+[1/7/2017 13:40:31] /a 2
+[1/7/2017 13:40:31] /a 2
+[1/7/2017 13:40:31] /a 2
+[1/7/2017 13:40:31] /a 2
+[1/7/2017 13:40:31] /a 2
+[1/7/2017 13:40:32] /a 2
+[1/7/2017 13:40:32] /a 2
+[1/7/2017 13:40:33] /t
+[1/7/2017 13:40:34] /save
+[1/7/2017 13:45:30] /a 2
+[2/7/2017 6:36:37] /t
+[2/7/2017 12:45:17] /i 10863
+[2/7/2017 12:45:30] /i 10858
+[2/7/2017 12:45:40] /i 10857
+[2/7/2017 12:45:50] /i 10859
+[2/7/2017 12:46:0] /i 10856
+[2/7/2017 12:46:9] /i 10858
+[2/7/2017 12:57:56] /a 5
+[2/7/2017 12:58:6] /a 2
+[2/7/2017 14:45:0] /ghost
+[2/7/2017 14:45:18] /ghost
+[2/7/2017 15:6:26] /t
+[2/7/2017 23:51:52] /a 2
+[2/7/2017 23:51:59] /t
+[2/7/2017 23:53:41] /ghost
+[2/7/2017 23:54:0] /t
+[2/7/2017 23:54:4] /c evil
+[2/7/2017 23:54:13] /ghost
+[3/7/2017 0:56:26] /ghost
+[3/7/2017 0:56:29] /ghost
+[3/7/2017 16:19:33] /a 2
+[3/7/2017 16:19:40] /r
+[3/7/2017 16:19:41] /r
+[3/7/2017 16:20:11] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:20:12] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:20:12] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:20:12] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:20:13] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:20:13] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:20:14] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:20:14] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:20:15] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:20:15] /t
+[3/7/2017 16:20:16] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:20:17] /bc [ATENÇÃO] Já aviamos corrigido todos os bugs e agora fizemos um upgrade em nosso host para mantermos 100% de uptime!
+[3/7/2017 16:21:58] /bc QUEM FICA ON E PRESTA ATENÇÃO VIU QUE O SERVIDOR JA ESTAVA A 3 DIA ESTAVEL SEM QUEDAS DESDE QUANDO OS BUGS FORAM CORRIGIDOS E AGORA SO CAIU PARA UPGRADE NO HOST;
+[3/7/2017 16:40:45] /t
+[3/7/2017 16:41:5] /t
+[3/7/2017 17:39:38] /save
+[3/7/2017 20:28:2] /ghost
+[3/7/2017 20:28:38] /ghost
+[3/7/2017 20:28:52] /ghost
+[3/7/2017 20:29:7] /ghost
+[3/7/2017 21:5:24] /i Nightmare Doll
+[3/7/2017 21:5:33] /i 
+[3/7/2017 21:5:34] /i Panda Teddy
+[3/7/2017 21:5:57] /i Ferumbras Doll
+[3/7/2017 21:6:5] /i doll
+[3/7/2017 21:15:54] /i 2112
+[3/7/2017 21:36:6] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:7] /save
+[3/7/2017 21:36:9] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:10] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:10] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:10] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:11] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:11] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:12] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:12] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:15] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:16] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:16] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:16] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:17] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:17] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:17] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:18] /bc [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:32] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:32] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:33] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:33] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:34] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:34] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:34] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:35] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:35] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:36] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:36] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:36] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:37] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:37] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:37] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:38] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:36:41] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:37:54] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:37:55] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:37:55] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:37:55] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:37:58] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:39:2] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:39:3] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:39:3] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:39:3] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:39:4] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:39:4] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 21:40:40] /bc http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:40:46] /town 3
+[3/7/2017 21:40:48] /bc http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:4] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:6] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:6] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:7] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:7] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:7] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:8] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:8] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:8] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:8] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:8] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:9] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:9] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:9] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:10] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:12] /save
+[3/7/2017 21:41:13] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:13] /bc Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:18] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:18] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:19] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:19] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:20] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:20] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:21] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:21] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:22] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:23] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:23] /bc green Promoção 1 mês online e novo update -> http://baiakinho.ddns.net/images/promo.png
+[3/7/2017 21:41:28] /t
+[3/7/2017 21:41:31] /goto Clayverson Newton
+[3/7/2017 21:46:48] /t
+[3/7/2017 21:47:44] /newtype 302
+[3/7/2017 22:15:59] /save
+[3/7/2017 22:16:1] /reload items
+[3/7/2017 22:16:4] /i baiakinho doll
+[3/7/2017 22:16:9] /i baiakinho doll
+[3/7/2017 22:16:13] /i 2110
+[3/7/2017 22:17:14] /bc Freeze backup....
+[3/7/2017 22:17:15] /save
+[3/7/2017 22:17:18] /reload actions
+[3/7/2017 22:18:5] /reload actions
+[3/7/2017 22:18:9] /i 2110
+[3/7/2017 22:26:57] /reload actions
+[3/7/2017 22:29:50] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:51] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:51] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:52] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:52] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:52] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:53] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:53] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:54] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:54] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:54] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:55] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:56] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:29:57] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:46:1] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:46:1] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:46:2] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:46:2] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:46:2] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[3/7/2017 22:49:59] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:1] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:2] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:2] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:3] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:3] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:6] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:7] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:7] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:8] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:8] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:16] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:17] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:17] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:18] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:20] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:20] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:21] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:21] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:21] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:24:22] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:37:10] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:37:11] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:37:11] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:37:12] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:37:12] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:37:13] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:37:14] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:37:16] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 21:37:17] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 22:27:35] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 22:27:36] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 22:27:36] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 22:27:36] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 22:27:37] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 22:27:37] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 23:37:22] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 23:37:22] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 23:37:23] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 23:37:23] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[4/7/2017 23:37:23] /bc green [Promoção 1 Mês online] - Double points + Stamina infinita para todas as doações acima de R$30,00 / Double points + Baiakinho Doll para todas as doações acima de R$50,00 / Triple points + Baiakinho doll para todas as doações acima de R$100,00!
+[5/7/2017 0:17:29] /save

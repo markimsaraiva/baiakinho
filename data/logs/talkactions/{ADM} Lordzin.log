@@ -1,0 +1,173 @@
+[21/2/2017 10:34:6] /t
+[21/2/2017 11:2:47] /i backpack
+[21/2/2017 11:33:46] /reload globalevents
+[21/2/2017 12:13:7] /reload globalevents
+[21/2/2017 12:28:39] /save
+[21/2/2017 12:28:50] /shutdown
+[21/2/2017 12:30:1] /ghost
+[21/2/2017 12:41:22] /goto byklaw
+[21/2/2017 12:43:7] /t
+[21/2/2017 12:43:40] /addskill Byklaw, level
+[21/2/2017 12:43:41] /addskill Byklaw, level
+[21/2/2017 12:43:42] /addskill Byklaw, level
+[21/2/2017 12:43:43] /addskill Byklaw, level
+[21/2/2017 12:43:43] /addskill Byklaw, level
+[21/2/2017 12:43:44] /addskill Byklaw, level
+[21/2/2017 12:43:45] /addskill Byklaw, level
+[21/2/2017 12:43:45] /addskill Byklaw, level
+[21/2/2017 12:43:46] /addskill Byklaw, level
+[21/2/2017 12:43:46] /addskill Byklaw, level
+[21/2/2017 12:43:47] /addskill Byklaw, level
+[21/2/2017 12:43:47] /addskill Byklaw, level
+[21/2/2017 12:43:48] /addskill Byklaw, level
+[21/2/2017 12:43:48] /addskill Byklaw, level
+[21/2/2017 12:43:49] /addskill Byklaw, level
+[21/2/2017 12:43:49] /addskill Byklaw, level
+[21/2/2017 12:43:53] /addskill Byklaw, level
+[21/2/2017 12:46:16] /t
+[21/2/2017 12:47:12] /i new donate staff
+[21/2/2017 12:47:20] /i regeneration boots
+[21/2/2017 12:47:47] /reload globalevents
+[21/2/2017 12:50:46] /reload globalevents
+[21/2/2017 12:51:38] /reload globalevents
+[21/2/2017 13:1:28] /ghost
+[21/2/2017 13:1:37] /ghost
+[21/2/2017 13:2:5] /i new donate staff
+[21/2/2017 13:7:23] /a 3
+[21/2/2017 13:7:28] /owner glock da rajada
+[21/2/2017 13:7:39] /t
+[21/2/2017 13:16:45] /bc JA ARRUMEI O SITE PODEM CRIAR CONTAS NORMALMENTE !!!!
+[21/2/2017 13:16:46] /bc JA ARRUMEI O SITE PODEM CRIAR CONTAS NORMALMENTE !!!!
+[21/2/2017 13:16:47] /bc JA ARRUMEI O SITE PODEM CRIAR CONTAS NORMALMENTE !!!!
+[21/2/2017 13:16:47] /bc JA ARRUMEI O SITE PODEM CRIAR CONTAS NORMALMENTE !!!!
+[21/2/2017 13:16:48] /bc JA ARRUMEI O SITE PODEM CRIAR CONTAS NORMALMENTE !!!!
+[21/2/2017 13:16:48] /bc JA ARRUMEI O SITE PODEM CRIAR CONTAS NORMALMENTE !!!!
+[21/2/2017 13:16:49] /bc JA ARRUMEI O SITE PODEM CRIAR CONTAS NORMALMENTE !!!!
+[21/2/2017 13:16:49] /bc JA ARRUMEI O SITE PODEM CRIAR CONTAS NORMALMENTE !!!!
+[21/2/2017 13:16:49] /bc JA ARRUMEI O SITE PODEM CRIAR CONTAS NORMALMENTE !!!!
+[21/2/2017 13:24:31] /goto glock da rajada
+[21/2/2017 13:24:59] /t
+[21/2/2017 13:36:28] /goto Neo Skalybur
+[21/2/2017 13:36:36] /i letter
+[21/2/2017 13:36:56] /goto auto 4000 foreach 'screenplayers' $players | if [$playersaround.7 >= 1] {pm ?$players.name' 144.217.206.11 - NEW BA!AK - ( ENTR0U GANHA ARMA ) - MUITO PELEGO - 24H - 100% LIZO - QUESTS E EV3NTOS - VEM CONHECER!!!! ACC 1/1 !!!  }
+[21/2/2017 13:37:1] /goto Neo Skalybur
+[21/2/2017 13:37:59] /t
+[21/2/2017 13:56:6] /a 2
+[21/2/2017 13:56:15] /c Druid Marion
+[21/2/2017 13:56:34] /goto druid marion
+[21/2/2017 13:56:38] /goto druid marion
+[21/2/2017 13:56:40] /goto druid marion
+[21/2/2017 13:56:41] /goto druid marion
+[21/2/2017 13:56:43] /goto druid marion
+[21/2/2017 13:56:50] /goto druid marion
+[21/2/2017 13:56:53] /goto druid marion
+[21/2/2017 13:57:1] /t Druid Marion
+[21/2/2017 13:57:3] /t
+[21/2/2017 14:53:35] /goto black
+[21/2/2017 14:53:43] /goto goiaba
+[21/2/2017 14:53:48] /t
+[21/2/2017 15:0:21] /i promote ring
+[21/2/2017 15:0:29] /i regeneration boots
+[21/2/2017 15:20:49] /goto goiaba
+[21/2/2017 15:20:58] /goto monster
+[21/2/2017 15:29:35] /promote tutor
+[21/2/2017 15:29:38] /promote tutor
+[21/2/2017 15:30:57] /goto tutor
+[22/2/2017 7:38:36] /t
+[22/2/2017 7:50:13] /goto chacal
+[22/2/2017 7:53:19] /goto nse xtressa
+[22/2/2017 7:53:24] /t
+[22/2/2017 8:10:44] /ghost
+[22/2/2017 8:11:5] /ghost
+[22/2/2017 8:20:2] /i stamina potion
+[22/2/2017 8:20:15] /i 2346
+[22/2/2017 8:20:17] /goto goiaba
+[22/2/2017 8:20:48] /t
+[22/2/2017 8:48:32] /ghost
+[22/2/2017 8:48:49] /ghost
+[22/2/2017 8:49:12] /ghost
+[22/2/2017 8:49:22] /ghost
+[22/2/2017 8:54:54] /goto Deriky Minganti
+[22/2/2017 8:55:10] /ghost
+[22/2/2017 8:55:29] /ghost
+[22/2/2017 8:56:22] /i regeneration boots
+[22/2/2017 8:56:36] /t
+[22/2/2017 8:58:55] /goto Dunhiill
+[22/2/2017 8:59:59] /t
+[22/2/2017 9:0:13] /ghost
+[22/2/2017 9:0:22] /ghost
+[22/2/2017 9:3:6] /i new donate staff
+[22/2/2017 9:3:15] /i regeneration boots
+[22/2/2017 9:3:39] /c mage rullex
+[22/2/2017 9:4:47] /t
+[22/2/2017 9:5:6] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:8] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:9] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:9] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:10] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:10] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:11] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:11] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:12] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:12] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:13] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:13] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:14] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:14] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:15] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:15] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:5:16] /bc QUEM TIVER GUILD, FAVOR IR NO SITE E TENTAR TROCAR O LOGO POR UM QUE VOCE QUEIRA!!
+[22/2/2017 9:10:41] /goto lord ajudante
+[22/2/2017 9:10:47] /promote lord ajudante
+[22/2/2017 9:10:48] /promote lord ajudante
+[22/2/2017 9:23:54] /i new donate staff
+[22/2/2017 9:23:58] /i regeneration boots
+[22/2/2017 9:24:25] /i new donate staff
+[22/2/2017 9:24:27] /i regeneration boots
+[22/2/2017 9:24:39] /c warzerah
+[22/2/2017 9:24:57] /t
+[22/2/2017 9:27:57] /t
+[22/2/2017 9:30:47] /i regeneration boots
+[22/2/2017 9:30:52] /i new donate staff
+[22/2/2017 9:30:55] /goto proccek 
+[22/2/2017 9:31:3] /c proccek
+[22/2/2017 9:31:13] /t
+[22/2/2017 16:47:31] /goto Fiiifoo
+[22/2/2017 16:47:36] /t
+[23/2/2017 8:44:29] /bc CHAMEM SEUS AMIGOS PARA O SERVER!
+[23/2/2017 10:11:43] /ghost
+[23/2/2017 10:19:36] /ghost
+[23/2/2017 10:22:16] /goto patrao
+[23/2/2017 11:13:40] /c Habacher
+[23/2/2017 12:22:51] /goto dr lesado
+[23/2/2017 13:41:45] /c tio cafe
+[23/2/2017 14:30:12] /mute Safira, 60
+[23/2/2017 14:30:19] /mute Safira 60
+[23/2/2017 14:32:11] /mute cavalin, 60
+[23/2/2017 14:32:28] /mute cavalin, 9999
+[23/2/2017 14:32:41] /mute Safira, 99999
+[23/2/2017 14:33:57] /mute Safira, 99999
+[23/2/2017 14:38:51] /goto Hydeist
+[23/2/2017 14:38:55] /t
+[23/2/2017 14:57:27] /mute Safira, 99999999
+[23/2/2017 21:26:29] /ghost
+[23/2/2017 21:27:38] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:41] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:42] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:43] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:43] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:47] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:48] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:49] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:50] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:50] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:51] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:51] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:52] /bc Boa noite, Duvidas e sugestões no HELP!!
+[23/2/2017 21:27:55] /t
+[23/2/2017 21:29:11] /ghost
+[23/2/2017 21:29:32] /ghost
+[23/2/2017 21:32:23] /ghost
+[23/2/2017 22:33:37] /ghost
+[23/2/2017 22:34:29] /ghost
+[24/2/2017 10:50:10] /t
