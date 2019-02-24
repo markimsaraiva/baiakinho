@@ -73,8 +73,8 @@
 	<house name="New House" houseid="268435573" entryx="1033" entryy="1046" entryz="7" rent="0" townid="1" size="44" />
 	<house name="New House" houseid="268435574" entryx="1021" entryy="1046" entryz="7" rent="0" townid="1" size="64" />
 	<house name="New House" houseid="268435575" entryx="1013" entryy="1053" entryz="7" rent="0" townid="1" size="60" />
-	<house name="New House" houseid="268435576" entryx="1009" entryy="1041" entryz="7" rent="0" townid="1" size="96" />
-	<house name="New House" houseid="268435577" entryx="1009" entryy="1029" entryz="7" rent="0" townid="1" size="128" />
+	<house name="New House" houseid="268435576" entryx="1009" entryy="1041" entryz="7" rent="0" townid="1" size="64" />
+	<house name="New House" houseid="268435577" entryx="1009" entryy="1029" entryz="7" rent="0" townid="1" size="64" />
 	<house name="New House" houseid="268435578" entryx="1010" entryy="1015" entryz="7" rent="0" townid="1" size="69" />
 	<house name="New House" houseid="268435579" entryx="1021" entryy="1016" entryz="7" rent="0" townid="1" size="60" />
 	<house name="New House" houseid="268435580" entryx="1037" entryy="1016" entryz="7" rent="0" townid="1" size="72" />
