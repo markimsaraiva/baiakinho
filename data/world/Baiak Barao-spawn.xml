@@ -1798,7 +1798,7 @@
 		<npc name="Npc Bp" x="0" y="-1" z="5" spawntime="10" />
 	</spawn>
 	<spawn centerx="116" centery="55" centerz="5" radius="1">
-		<npc name="Dark Rodo" x="0" y="1" z="5" spawntime="10" />
+		<npc name="dark rodo" x="0" y="1" z="5" spawntime="10" />
 	</spawn>
 	<spawn centerx="127" centery="58" centerz="5" radius="1">
 		<npc name="Seu Madruga" x="0" y="-1" z="5" spawntime="10" />
@@ -2062,10 +2062,10 @@
 		<monster name="Castle Hydra" x="-2" y="0" z="5" spawntime="3" />
 	</spawn>
 	<spawn centerx="653" centery="419" centerz="5" radius="5">
-		<monster name="Demon VIP" x="1" y="-1" z="5" spawntime="25" />
-		<monster name="Demon VIP" x="-2" y="1" z="5" spawntime="25" />
-		<monster name="Demon VIP" x="1" y="1" z="5" spawntime="25" />
-		<monster name="Demon VIP" x="-1" y="2" z="5" spawntime="25" />
+		<monster name="Demon Vip" x="1" y="-1" z="5" spawntime="25" />
+		<monster name="Demon Vip" x="-2" y="1" z="5" spawntime="25" />
+		<monster name="Demon Vip" x="1" y="1" z="5" spawntime="25" />
+		<monster name="Demon Vip" x="-1" y="2" z="5" spawntime="25" />
 	</spawn>
 	<spawn centerx="1016" centery="460" centerz="5" radius="5" />
 	<spawn centerx="1007" centery="464" centerz="5" radius="5" />
@@ -2289,15 +2289,15 @@
 		<monster name="Demon Vip III" x="5" y="3" z="5" spawntime="10" />
 	</spawn>
 	<spawn centerx="2438" centery="899" centerz="5" radius="10">
-		<monster name="Demon VIP" x="5" y="-6" z="5" spawntime="20" />
-		<monster name="Demon VIP" x="3" y="-5" z="5" spawntime="20" />
-		<monster name="Demon VIP" x="5" y="-4" z="5" spawntime="20" />
-		<monster name="Demon VIP" x="0" y="-2" z="5" spawntime="20" />
-		<monster name="Demon VIP" x="-4" y="-1" z="5" spawntime="20" />
-		<monster name="Demon VIP" x="-3" y="-1" z="5" spawntime="20" />
-		<monster name="Demon VIP" x="1" y="-1" z="5" spawntime="20" />
-		<monster name="Demon VIP" x="-7" y="1" z="5" spawntime="20" />
-		<monster name="Demon VIP" x="-6" y="3" z="5" spawntime="20" />
+		<monster name="Demon Vip" x="5" y="-6" z="5" spawntime="20" />
+		<monster name="Demon Vip" x="3" y="-5" z="5" spawntime="20" />
+		<monster name="Demon Vip" x="5" y="-4" z="5" spawntime="20" />
+		<monster name="Demon Vip" x="0" y="-2" z="5" spawntime="20" />
+		<monster name="Demon Vip" x="-4" y="-1" z="5" spawntime="20" />
+		<monster name="Demon Vip" x="-3" y="-1" z="5" spawntime="20" />
+		<monster name="Demon Vip" x="1" y="-1" z="5" spawntime="20" />
+		<monster name="Demon Vip" x="-7" y="1" z="5" spawntime="20" />
+		<monster name="Demon Vip" x="-6" y="3" z="5" spawntime="20" />
 	</spawn>
 	<spawn centerx="278" centery="1252" centerz="5" radius="5">
 		<monster name="Gladiator" x="1" y="-4" z="5" spawntime="25" />
@@ -4802,7 +4802,7 @@
 	<spawn centerx="125" centery="16" centerz="6" radius="1" />
 	<spawn centerx="127" centery="43" centerz="6" radius="1" />
 	<spawn centerx="110" centery="46" centerz="6" radius="1">
-		<npc name="Dark Rodo" x="0" y="1" z="6" spawntime="10" />
+		<npc name="dark rodo" x="0" y="1" z="6" spawntime="10" />
 	</spawn>
 	<spawn centerx="116" centery="49" centerz="6" radius="1">
 		<npc name="Lector" x="0" y="0" z="6" spawntime="10" />
@@ -5233,7 +5233,7 @@
 		<monster name="Demon" x="0" y="0" z="6" spawntime="20" />
 	</spawn>
 	<spawn centerx="2726" centery="194" centerz="6" radius="2">
-		<npc name="Dark Rodo" x="0" y="-1" z="6" spawntime="10" />
+		<npc name="dark rodo" x="0" y="-1" z="6" spawntime="10" />
 	</spawn>
 	<spawn centerx="291" centery="195" centerz="6" radius="1">
 		<monster name="Medusa" x="0" y="0" z="6" spawntime="20" />
@@ -5350,7 +5350,7 @@
 	<spawn centerx="1507" centery="225" centerz="6" radius="5" />
 	<spawn centerx="1575" centery="246" centerz="6" radius="1" />
 	<spawn centerx="1359" centery="248" centerz="6" radius="3">
-		<npc name="Dark Rodo" x="0" y="-1" z="6" spawntime="10" />
+		<npc name="dark rodo" x="0" y="-1" z="6" spawntime="10" />
 	</spawn>
 	<spawn centerx="1577" centery="249" centerz="6" radius="1" />
 	<spawn centerx="1555" centery="250" centerz="6" radius="1" />
@@ -5544,36 +5544,36 @@
 		<monster name="Earth Kelpie" x="-1" y="4" z="6" spawntime="10" />
 	</spawn>
 	<spawn centerx="650" centery="415" centerz="6" radius="5">
-		<monster name="Demon VIP" x="2" y="-1" z="6" spawntime="25" />
-		<monster name="Demon VIP" x="-5" y="2" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="2" y="-1" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="-5" y="2" z="6" spawntime="25" />
 	</spawn>
 	<spawn centerx="642" centery="416" centerz="6" radius="5" />
 	<spawn centerx="667" centery="419" centerz="6" radius="5">
-		<monster name="Demon VIP" x="-5" y="-2" z="6" spawntime="25" />
-		<monster name="Demon VIP" x="-3" y="5" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="-5" y="-2" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="-3" y="5" z="6" spawntime="25" />
 	</spawn>
 	<spawn centerx="659" centery="420" centerz="6" radius="5">
-		<monster name="Demon VIP" x="-3" y="-2" z="6" spawntime="25" />
-		<monster name="Demon VIP" x="1" y="4" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="-3" y="-2" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="1" y="4" z="6" spawntime="25" />
 	</spawn>
 	<spawn centerx="653" centery="423" centerz="6" radius="5">
-		<monster name="Demon VIP" x="-1" y="5" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="-1" y="5" z="6" spawntime="25" />
 	</spawn>
 	<spawn centerx="644" centery="424" centerz="6" radius="5">
-		<monster name="Demon VIP" x="-5" y="-1" z="6" spawntime="25" />
-		<monster name="Demon VIP" x="-2" y="-1" z="6" spawntime="25" />
-		<monster name="Demon VIP" x="3" y="2" z="6" spawntime="25" />
-		<monster name="Demon VIP" x="-1" y="5" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="-5" y="-1" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="-2" y="-1" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="3" y="2" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="-1" y="5" z="6" spawntime="25" />
 	</spawn>
 	<spawn centerx="640" centery="427" centerz="6" radius="5" />
 	<spawn centerx="658" centery="429" centerz="6" radius="5">
-		<monster name="Demon VIP" x="4" y="1" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="4" y="1" z="6" spawntime="25" />
 	</spawn>
 	<spawn centerx="666" centery="430" centerz="6" radius="5">
-		<monster name="Demon VIP" x="1" y="-2" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="1" y="-2" z="6" spawntime="25" />
 	</spawn>
 	<spawn centerx="650" centery="431" centerz="6" radius="5">
-		<monster name="Demon VIP" x="-2" y="1" z="6" spawntime="25" />
+		<monster name="Demon Vip" x="-2" y="1" z="6" spawntime="25" />
 	</spawn>
 	<spawn centerx="1013" centery="458" centerz="6" radius="5" />
 	<spawn centerx="1004" centery="462" centerz="6" radius="5" />
@@ -6643,11 +6643,11 @@
 		<monster name="Frost Dragon Vip III" x="-20" y="15" z="6" spawntime="10" />
 	</spawn>
 	<spawn centerx="713" centery="764" centerz="6" radius="1">
-		<npc name="Dark Rodo" x="0" y="0" z="6" spawntime="100" />
+		<npc name="dark rodo" x="0" y="0" z="6" spawntime="100" />
 	</spawn>
 	<spawn centerx="714" centery="764" centerz="6" radius="1" />
 	<spawn centerx="656" centery="796" centerz="6" radius="1">
-		<npc name="Dark Rodo" x="0" y="0" z="6" spawntime="100" />
+		<npc name="dark rodo" x="0" y="0" z="6" spawntime="100" />
 	</spawn>
 	<spawn centerx="657" centery="796" centerz="6" radius="1" />
 	<spawn centerx="1716" centery="823" centerz="6" radius="3">
@@ -6798,44 +6798,44 @@
 		<monster name="Demon Vip III" x="-24" y="26" z="6" spawntime="10" />
 	</spawn>
 	<spawn centerx="2452" centery="892" centerz="6" radius="10">
-		<monster name="Demon VIP" x="-5" y="-5" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-2" y="-5" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-4" y="-4" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-5" y="-5" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-2" y="-5" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-4" y="-4" z="6" spawntime="20" />
 	</spawn>
 	<spawn centerx="2411" centery="897" centerz="6" radius="30">
 		<monster name="hydra vip II" x="15" y="-30" z="6" spawntime="25" />
 		<monster name="hydra vip II" x="24" y="-30" z="6" spawntime="25" />
 		<monster name="hydra vip II" x="28" y="-27" z="6" spawntime="25" />
 		<monster name="hydra vip II" x="18" y="-25" z="6" spawntime="25" />
-		<monster name="Demon VIP" x="4" y="-23" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="4" y="-23" z="6" spawntime="20" />
 		<monster name="hydra vip II" x="26" y="-23" z="6" spawntime="25" />
-		<monster name="Demon VIP" x="-25" y="-21" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-25" y="-21" z="6" spawntime="20" />
 		<monster name="hydra vip II" x="22" y="-21" z="6" spawntime="25" />
-		<monster name="Demon VIP" x="-19" y="-19" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-19" y="-19" z="6" spawntime="20" />
 		<monster name="hydra vip II" x="26" y="-19" z="6" spawntime="25" />
-		<monster name="Demon VIP" x="6" y="-18" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="9" y="-18" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-27" y="-16" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="15" y="-14" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-23" y="-13" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="20" y="-10" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-20" y="-9" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="24" y="-9" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="15" y="-7" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="20" y="-5" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-20" y="-4" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="14" y="-3" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="17" y="-1" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="11" y="0" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-19" y="3" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="9" y="3" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-12" y="7" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-2" y="8" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="7" y="8" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="4" y="9" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-18" y="10" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-9" y="10" z="6" spawntime="20" />
-		<monster name="Demon VIP" x="-1" y="11" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="6" y="-18" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="9" y="-18" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-27" y="-16" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="15" y="-14" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-23" y="-13" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="20" y="-10" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-20" y="-9" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="24" y="-9" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="15" y="-7" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="20" y="-5" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-20" y="-4" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="14" y="-3" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="17" y="-1" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="11" y="0" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-19" y="3" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="9" y="3" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-12" y="7" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-2" y="8" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="7" y="8" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="4" y="9" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-18" y="10" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-9" y="10" z="6" spawntime="20" />
+		<monster name="Demon Vip" x="-1" y="11" z="6" spawntime="20" />
 	</spawn>
 	<spawn centerx="412" centery="931" centerz="6" radius="5">
 		<monster name="Demon" x="-3" y="-4" z="6" spawntime="10" />
@@ -10697,13 +10697,13 @@
 		<monster name="Cyclops" x="1" y="-1" z="7" spawntime="10" />
 	</spawn>
 	<spawn centerx="407" centery="87" centerz="7" radius="4">
-		<monster name="Frost Dragon Hatchling" x="-1" y="-4" z="7" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="2" y="-1" z="7" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-2" y="1" z="7" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-1" y="-4" z="7" spawntime="25" />
+		<monster name="frost dragon hatchling" x="2" y="-1" z="7" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-2" y="1" z="7" spawntime="25" />
 	</spawn>
 	<spawn centerx="418" centery="87" centerz="7" radius="4">
-		<monster name="Frost Dragon Hatchling" x="1" y="-3" z="7" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-3" y="-2" z="7" spawntime="25" />
+		<monster name="frost dragon hatchling" x="1" y="-3" z="7" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-3" y="-2" z="7" spawntime="25" />
 		<monster name="Frost Dragon" x="2" y="2" z="7" spawntime="25" />
 	</spawn>
 	<spawn centerx="2140" centery="87" centerz="7" radius="5" />
@@ -17493,9 +17493,9 @@
 		<monster name="Dragon Lord" x="10" y="0" z="7" spawntime="30" />
 		<monster name="Dragon Lord" x="10" y="1" z="7" spawntime="30" />
 		<monster name="Dragon Lord" x="10" y="2" z="7" spawntime="30" />
-		<monster name="Demon VIP" x="9" y="8" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="9" y="8" z="7" spawntime="25" />
 		<monster name="Dragon Lord" x="-21" y="9" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="7" y="13" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="7" y="13" z="7" spawntime="25" />
 		<monster name="Dragon Lord" x="-20" y="14" z="7" spawntime="25" />
 		<monster name="Dragon Lord" x="-1" y="15" z="7" spawntime="25" />
 		<monster name="Dragon Lord" x="-19" y="16" z="7" spawntime="25" />
@@ -17693,17 +17693,17 @@
 		<monster name="Castle Dragon Lord" x="1" y="3" z="7" spawntime="10" />
 	</spawn>
 	<spawn centerx="593" centery="423" centerz="7" radius="30">
-		<monster name="Demon VIP" x="-11" y="-12" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-14" y="-10" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-10" y="-10" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="9" y="-2" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-22" y="0" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-19" y="6" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-7" y="6" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="8" y="7" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="25" y="15" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="22" y="16" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="13" y="19" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-11" y="-12" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-14" y="-10" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-10" y="-10" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="9" y="-2" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-22" y="0" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-19" y="6" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-7" y="6" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="8" y="7" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="25" y="15" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="22" y="16" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="13" y="19" z="7" spawntime="25" />
 	</spawn>
 	<spawn centerx="1478" centery="423" centerz="7" radius="5">
 		<monster name="Ghastly Dragon" x="-1" y="-4" z="7" spawntime="25" />
@@ -17787,12 +17787,12 @@
 		<monster name="Dragon Lord" x="11" y="15" z="7" spawntime="25" />
 		<monster name="Dragon Lord" x="14" y="16" z="7" spawntime="25" />
 		<monster name="Dragon Lord" x="19" y="17" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-10" y="20" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-6" y="20" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-10" y="20" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-6" y="20" z="7" spawntime="25" />
 		<monster name="Dragon Lord" x="20" y="21" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="22" y="24" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-6" y="27" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="9" y="30" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="22" y="24" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-6" y="27" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="9" y="30" z="7" spawntime="25" />
 	</spawn>
 	<spawn centerx="2483" centery="433" centerz="7" radius="5">
 		<monster name="Triple Medusa" x="-5" y="2" z="7" spawntime="5" />
@@ -18351,13 +18351,13 @@
 	<spawn centerx="2569" centery="456" centerz="7" radius="5" />
 	<spawn centerx="2719" centery="456" centerz="7" radius="5" />
 	<spawn centerx="650" centery="457" centerz="7" radius="30">
-		<monster name="Demon VIP" x="28" y="-2" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="19" y="1" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="9" y="8" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-20" y="9" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="1" y="9" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-9" y="11" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="14" y="11" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="28" y="-2" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="19" y="1" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="9" y="8" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-20" y="9" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="1" y="9" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-9" y="11" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="14" y="11" z="7" spawntime="25" />
 	</spawn>
 	<spawn centerx="1002" centery="459" centerz="7" radius="5" />
 	<spawn centerx="1025" centery="459" centerz="7" radius="5" />
@@ -19088,10 +19088,10 @@
 		<monster name="Castle Grim Reaper" x="14" y="30" z="7" spawntime="5" />
 	</spawn>
 	<spawn centerx="212" centery="528" centerz="7" radius="1">
-		<monster name="Demon VIP" x="0" y="0" z="7" spawntime="10" />
+		<monster name="Demon Vip" x="0" y="0" z="7" spawntime="10" />
 	</spawn>
 	<spawn centerx="214" centery="528" centerz="7" radius="1">
-		<monster name="Demon VIP" x="0" y="0" z="7" spawntime="10" />
+		<monster name="Demon Vip" x="0" y="0" z="7" spawntime="10" />
 	</spawn>
 	<spawn centerx="216" centery="528" centerz="7" radius="1">
 		<monster name="Grim Reaper Vip" x="0" y="0" z="7" spawntime="10" />
@@ -22903,7 +22903,7 @@
 		<monster name="warlock vip" x="4" y="-2" z="7" spawntime="25" />
 		<monster name="Frost Dragon Vip" x="-5" y="1" z="7" spawntime="25" />
 		<monster name="Medusa Vip" x="4" y="1" z="7" spawntime="25" />
-		<monster name="Demon VIP" x="-5" y="4" z="7" spawntime="25" />
+		<monster name="Demon Vip" x="-5" y="4" z="7" spawntime="25" />
 		<monster name="Bossing of Baiak" x="4" y="4" z="7" spawntime="25" />
 	</spawn>
 	<spawn centerx="408" centery="951" centerz="7" radius="5" />
@@ -25855,7 +25855,7 @@
 		<npc name="Mad" x="0" y="-1" z="7" spawntime="10" />
 	</spawn>
 	<spawn centerx="2963" centery="1327" centerz="7" radius="1">
-		<npc name="Dark Rodo" x="0" y="-1" z="7" spawntime="10" />
+		<npc name="dark rodo" x="0" y="-1" z="7" spawntime="10" />
 	</spawn>
 	<spawn centerx="2968" centery="1327" centerz="7" radius="1">
 		<npc name="Dodge Seller" x="-1" y="-1" z="7" spawntime="10" />
@@ -39333,41 +39333,41 @@
 		<monster name="Lizard Dragon Priest" x="2" y="3" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="486" centery="414" centerz="8" radius="30">
-		<monster name="Demon VIP" x="-7" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-4" y="2" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="4" y="2" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="6" y="2" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="9" y="5" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-8" y="8" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-6" y="9" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-5" y="9" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="0" y="9" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="14" y="12" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="12" y="20" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="11" y="27" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-7" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-4" y="2" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="4" y="2" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="6" y="2" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="9" y="5" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-8" y="8" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-6" y="9" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-5" y="9" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="0" y="9" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="14" y="12" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="12" y="20" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="11" y="27" z="8" spawntime="30" />
 	</spawn>
 	<spawn centerx="543" centery="416" centerz="8" radius="30">
-		<monster name="Demon VIP" x="-5" y="-14" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-9" y="-12" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-1" y="-10" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-5" y="-9" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-10" y="-7" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="2" y="-7" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-1" y="-5" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-12" y="-2" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="2" y="0" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-11" y="1" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-4" y="3" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="2" y="3" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-5" y="7" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-9" y="8" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-1" y="9" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-6" y="13" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-9" y="20" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-9" y="22" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-8" y="25" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-8" y="26" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-7" y="27" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-5" y="-14" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-9" y="-12" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-1" y="-10" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-5" y="-9" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-10" y="-7" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="2" y="-7" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-1" y="-5" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-12" y="-2" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="2" y="0" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-11" y="1" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-4" y="3" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="2" y="3" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-5" y="7" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-9" y="8" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-1" y="9" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-6" y="13" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-9" y="20" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-9" y="22" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-8" y="25" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-8" y="26" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-7" y="27" z="8" spawntime="30" />
 	</spawn>
 	<spawn centerx="1827" centery="420" centerz="8" radius="30">
 		<monster name="Insect Swarm" x="8" y="-17" z="8" spawntime="25" />
@@ -39410,55 +39410,55 @@
 		<monster name="Ghastly Dragon" x="-16" y="14" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="513" centery="453" centerz="8" radius="30">
-		<monster name="Demon VIP" x="-17" y="-7" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="24" y="-6" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-10" y="-4" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="18" y="-3" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="23" y="-3" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-21" y="-2" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-12" y="-2" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="18" y="1" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="23" y="1" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-23" y="2" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-19" y="3" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="14" y="4" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="19" y="5" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="9" y="7" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="10" y="7" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="18" y="7" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="16" y="9" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="9" y="10" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="12" y="11" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-17" y="-7" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="24" y="-6" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-10" y="-4" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="18" y="-3" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="23" y="-3" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-21" y="-2" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-12" y="-2" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="18" y="1" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="23" y="1" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-23" y="2" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-19" y="3" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="14" y="4" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="19" y="5" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="9" y="7" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="10" y="7" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="18" y="7" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="16" y="9" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="9" y="10" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="12" y="11" z="8" spawntime="30" />
 	</spawn>
 	<spawn centerx="1016" centery="461" centerz="8" radius="5">
 		<monster name="Lich" x="-1" y="2" z="8" spawntime="25" />
 		<monster name="Serpent Spawn" x="3" y="2" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="437" centery="467" centerz="8" radius="30">
-		<monster name="Demon VIP" x="-10" y="-8" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="3" y="-7" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-14" y="-4" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="11" y="-3" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="22" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-18" y="0" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="18" y="0" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-18" y="3" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-1" y="3" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="17" y="3" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-1" y="4" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-13" y="8" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="1" y="8" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="2" y="8" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="3" y="8" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="14" y="9" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="12" y="10" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-10" y="11" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="9" y="11" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="9" y="12" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-10" y="15" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-12" y="16" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-17" y="17" z="8" spawntime="30" />
-		<monster name="Demon VIP" x="-15" y="17" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-10" y="-8" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="3" y="-7" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-14" y="-4" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="11" y="-3" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="22" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-18" y="0" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="18" y="0" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-18" y="3" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-1" y="3" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="17" y="3" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-1" y="4" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-13" y="8" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="1" y="8" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="2" y="8" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="3" y="8" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="14" y="9" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="12" y="10" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-10" y="11" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="9" y="11" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="9" y="12" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-10" y="15" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-12" y="16" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-17" y="17" z="8" spawntime="30" />
+		<monster name="Demon Vip" x="-15" y="17" z="8" spawntime="30" />
 	</spawn>
 	<spawn centerx="1006" centery="471" centerz="8" radius="5">
 		<monster name="Elder Beholder" x="-2" y="-4" z="8" spawntime="25" />
@@ -39785,7 +39785,7 @@
 		<monster name="Magebomb" x="28" y="4" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="1347" centery="759" centerz="8" radius="1">
-		<monster name="Demon VIP" x="-1" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-1" y="0" z="8" spawntime="25" />
 		<monster name="Ferumbras" x="1" y="0" z="8" spawntime="25" />
 		<monster name="Orshabaal" x="0" y="1" z="8" spawntime="25" />
 	</spawn>
@@ -39825,17 +39825,17 @@
 		<monster name="warlock vip" x="3" y="-1" z="8" spawntime="25" />
 		<monster name="warlock vip" x="5" y="-1" z="8" spawntime="25" />
 		<monster name="warlock vip" x="7" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="9" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="11" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="13" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="15" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="17" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="19" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="21" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="23" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="25" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="27" y="-1" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="29" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="9" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="11" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="13" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="15" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="17" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="19" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="21" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="23" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="25" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="27" y="-1" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="29" y="-1" z="8" spawntime="25" />
 		<monster name="Frost Dragon Vip" x="-30" y="0" z="8" spawntime="25" />
 		<monster name="Frost Dragon Vip" x="-28" y="0" z="8" spawntime="25" />
 		<monster name="Frost Dragon Vip" x="-26" y="0" z="8" spawntime="25" />
@@ -39855,18 +39855,18 @@
 		<monster name="warlock vip" x="2" y="0" z="8" spawntime="25" />
 		<monster name="warlock vip" x="4" y="0" z="8" spawntime="25" />
 		<monster name="warlock vip" x="6" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="8" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="8" y="0" z="8" spawntime="25" />
 		<monster name="Bossing of Baiak" x="10" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="12" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="14" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="16" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="18" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="20" y="0" z="8" spawntime="1280" />
-		<monster name="Demon VIP" x="22" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="24" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="26" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="28" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="30" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="12" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="14" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="16" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="18" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="20" y="0" z="8" spawntime="1280" />
+		<monster name="Demon Vip" x="22" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="24" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="26" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="28" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="30" y="0" z="8" spawntime="25" />
 		<monster name="Magebomb" x="-29" y="3" z="8" spawntime="25" />
 		<monster name="Magebomb" x="-24" y="3" z="8" spawntime="25" />
 		<monster name="Magebomb" x="-20" y="3" z="8" spawntime="25" />
@@ -40129,45 +40129,45 @@
 		<monster name="Grim Reaper Vip" x="5" y="25" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="1127" centery="854" centerz="8" radius="30">
-		<monster name="Demon VIP" x="4" y="-23" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="23" y="-22" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-13" y="-17" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="13" y="-14" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-21" y="-4" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="12" y="5" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="25" y="6" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-21" y="12" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="5" y="16" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-21" y="25" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="0" y="25" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-11" y="27" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="4" y="-23" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="23" y="-22" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-13" y="-17" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="13" y="-14" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-21" y="-4" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="12" y="5" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="25" y="6" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-21" y="12" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="5" y="16" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-21" y="25" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="0" y="25" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-11" y="27" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="1190" centery="854" centerz="8" radius="30">
 		<monster name="Massacre" x="-16" y="-27" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-26" y="-23" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-6" y="-21" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="11" y="-21" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-21" y="-18" z="8" spawntime="55" />
-		<monster name="Demon VIP" x="-20" y="-18" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="28" y="-14" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-12" y="-11" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-22" y="-5" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-5" y="0" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="26" y="3" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="3" y="9" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="17" y="10" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="4" y="16" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-27" y="18" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="6" y="24" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-24" y="28" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-26" y="-23" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-6" y="-21" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="11" y="-21" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-21" y="-18" z="8" spawntime="55" />
+		<monster name="Demon Vip" x="-20" y="-18" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="28" y="-14" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-12" y="-11" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-22" y="-5" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-5" y="0" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="26" y="3" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="3" y="9" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="17" y="10" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="4" y="16" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-27" y="18" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="6" y="24" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-24" y="28" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="1253" centery="856" centerz="8" radius="30">
-		<monster name="Demon VIP" x="-20" y="-15" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-8" y="-7" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="0" y="10" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-22" y="14" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-15" y="19" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-6" y="23" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-20" y="-15" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-8" y="-7" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="0" y="10" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-22" y="14" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-15" y="19" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-6" y="23" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="898" centery="858" centerz="8" radius="5">
 		<monster name="Grim Reaper Vip" x="-2" y="-1" z="8" spawntime="25" />
@@ -40281,27 +40281,27 @@
 		<monster name="Grim Reaper Vip" x="18" y="28" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="1126" centery="916" centerz="8" radius="30">
-		<monster name="Demon VIP" x="16" y="-27" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-15" y="-22" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="27" y="-20" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-4" y="-17" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="9" y="-12" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="24" y="-11" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="16" y="-27" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-15" y="-22" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="27" y="-20" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-4" y="-17" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="9" y="-12" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="24" y="-11" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="1251" centery="919" centerz="8" radius="30">
-		<monster name="Demon VIP" x="-10" y="-25" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-21" y="-17" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-10" y="-25" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-21" y="-17" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="1188" centery="920" centerz="8" radius="30">
-		<monster name="Demon VIP" x="10" y="-28" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-4" y="-27" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-22" y="-26" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="19" y="-26" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="18" y="-15" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="1" y="-14" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="25" y="-14" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-17" y="-12" z="8" spawntime="25" />
-		<monster name="Demon VIP" x="-26" y="-11" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="10" y="-28" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-4" y="-27" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-22" y="-26" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="19" y="-26" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="18" y="-15" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="1" y="-14" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="25" y="-14" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-17" y="-12" z="8" spawntime="25" />
+		<monster name="Demon Vip" x="-26" y="-11" z="8" spawntime="25" />
 	</spawn>
 	<spawn centerx="2469" centery="923" centerz="8" radius="30">
 		<monster name="Dragon Lord Vip III" x="6" y="14" z="8" spawntime="10" />
@@ -49976,18 +49976,18 @@
 		<monster name="Hydra" x="-29" y="28" z="14" spawntime="25" />
 	</spawn>
 	<spawn centerx="102" centery="2149" centerz="14" radius="15">
-		<monster name="Frost Dragon Hatchling" x="-5" y="-10" z="14" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-5" y="-10" z="14" spawntime="25" />
 		<monster name="Frost Dragon" x="-1" y="-7" z="14" spawntime="25" />
 		<monster name="Frost Dragon" x="-8" y="-6" z="14" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-3" y="-5" z="14" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="11" y="-3" z="14" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-3" y="-5" z="14" spawntime="25" />
+		<monster name="frost dragon hatchling" x="11" y="-3" z="14" spawntime="25" />
 		<monster name="Frost Dragon" x="7" y="-2" z="14" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="6" y="0" z="14" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-4" y="4" z="14" spawntime="25" />
+		<monster name="frost dragon hatchling" x="6" y="0" z="14" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-4" y="4" z="14" spawntime="25" />
 		<monster name="Frost Dragon" x="-9" y="5" z="14" spawntime="25" />
 		<monster name="Frost Dragon" x="8" y="5" z="14" spawntime="25" />
 		<monster name="Frost Dragon" x="0" y="6" z="14" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-3" y="7" z="14" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-3" y="7" z="14" spawntime="25" />
 		<monster name="Frost Dragon" x="5" y="7" z="14" spawntime="25" />
 	</spawn>
 	<spawn centerx="14" centery="15" centerz="15" radius="5">
@@ -50292,7 +50292,7 @@
 		<monster name="The Pit Lord" x="1" y="0" z="15" spawntime="10" />
 	</spawn>
 	<spawn centerx="97" centery="941" centerz="15" radius="1">
-		<npc name="Morte" x="0" y="0" z="15" spawntime="25" />
+		<monster name="Morte" x="0" y="0" z="15" spawntime="25" />
 	</spawn>
 	<spawn centerx="44" centery="943" centerz="15" radius="5">
 		<monster name="The Masked Marauder" x="0" y="-1" z="15" spawntime="10" />
@@ -51188,13 +51188,13 @@
 		<monster name="Dragon" x="12" y="30" z="15" spawntime="60" />
 	</spawn>
 	<spawn centerx="1932" centery="1731" centerz="15" radius="4">
-		<monster name="Frost Dragon Hatchling" x="-1" y="-4" z="15" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="2" y="-1" z="15" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-2" y="1" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-1" y="-4" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="2" y="-1" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-2" y="1" z="15" spawntime="25" />
 	</spawn>
 	<spawn centerx="1943" centery="1731" centerz="15" radius="4">
-		<monster name="Frost Dragon Hatchling" x="1" y="-3" z="15" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-3" y="-2" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="1" y="-3" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-3" y="-2" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="0" y="-1" z="15" spawntime="60" />
 		<monster name="Frost Dragon" x="2" y="2" z="15" spawntime="25" />
 	</spawn>
@@ -51526,9 +51526,9 @@
 		<monster name="Serpent Spawn" x="4" y="5" z="15" spawntime="25" />
 	</spawn>
 	<spawn centerx="129" centery="2150" centerz="15" radius="15">
-		<monster name="Frost Dragon Hatchling" x="-3" y="-6" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-3" y="-6" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="2" y="-5" z="15" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="13" y="-4" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="13" y="-4" z="15" spawntime="25" />
 		<monster name="Esquimoh" x="12" y="-2" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="-3" y="0" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="-8" y="2" z="15" spawntime="25" />
@@ -51537,29 +51537,29 @@
 		<monster name="Frost Dragon" x="-14" y="6" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="-4" y="10" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="6" y="11" z="15" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-6" y="12" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-6" y="12" z="15" spawntime="25" />
 	</spawn>
 	<spawn centerx="95" centery="2163" centerz="15" radius="15">
-		<monster name="Frost Dragon Hatchling" x="-2" y="-3" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-2" y="-3" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="13" y="-2" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="3" y="-1" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="-12" y="1" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="-7" y="1" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="-4" y="2" z="15" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-10" y="4" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-10" y="4" z="15" spawntime="25" />
 	</spawn>
 	<spawn centerx="60" centery="2173" centerz="15" radius="15">
 		<monster name="Frost Dragon" x="2" y="-13" z="15" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-6" y="-12" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-6" y="-12" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="1" y="-6" z="15" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-1" y="-3" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-1" y="-3" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="-11" y="-1" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="12" y="-1" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="-4" y="0" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="0" y="9" z="15" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="14" y="9" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="14" y="9" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="-4" y="11" z="15" spawntime="25" />
-		<monster name="Frost Dragon Hatchling" x="-3" y="13" z="15" spawntime="25" />
+		<monster name="frost dragon hatchling" x="-3" y="13" z="15" spawntime="25" />
 		<monster name="Frost Dragon" x="13" y="13" z="15" spawntime="25" />
 	</spawn>
 </spawns>
