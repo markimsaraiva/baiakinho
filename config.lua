@@ -1,11 +1,11 @@
-	ownerName = ""
-	ownerEmail = "baiakinho@hotmail.com"
-	url = "Baiakinho"
+	ownerName = "Sandro"
+	ownerEmail = "otmagnata@gmail.com"
+	url = "baiakmagnata.tk"
 	location = "Brazil"
 
-	motd = "Seja bem vindo ao Baiakinho!!"
-	serverName = "Baiakinho"
-	loginMessage = "Seja bem vindo ao Baiakinho!!"
+	motd = "Seja bem vindo ao Baiak Magnata!!"
+	serverName = "Baiak Magnata"
+	loginMessage = "Seja bem vindo ao Baiak Magnata!"
 	displayGamemastersWithOnlineCommand = false
 
 	sqlType = "mysql"
