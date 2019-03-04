@@ -1,8 +1,8 @@
-        Bem Vindo ao BaiakFull [8.60]
+        Bem Vindo ao Baiak Magnata [8.60]
 
 -Todas as quests 100%
 -Itens e vocation balançeadas
--Para saber mais sobre donates: baiakfull.com 
+-Para saber mais sobre donates: baiakmagnata.tk
 -Dodge System 100%: !dodge
 -Critical System 100%: !critical
 -Para recuperar sua stamina: !stamina
@@ -16,7 +16,7 @@
 -Exp 400 (estages)
 -Expulsar players inativos (5 dias offline) de suas houses: !eject
 -Em bréve Cast System
--Site: www.baiakfull.ddns.net -qualquer bug poste em nóssa pagina no Facebook você será recompensado
+-Site: www.baiakmagnata.tk - qualquer bug poste em nóssa pagina no Facebook você será recompensado
 
 
         #  Bom Jogo  #
